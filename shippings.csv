@@ -1,0 +1,1501 @@
+shipping_id,order_id,shipping_date,return_date,shipping_providers,delivery_status
+1,1264,2021-09-22,,bluedart,In Transit
+2,1065,2021-03-18,2021-04-03,dhl,Returned to Sender
+3,455,2020-08-04,,bluedart,Delivered
+4,1189,2020-12-17,,bluedart,Attempted Delivery
+5,1139,2023-09-04,,fedex,Attempted Delivery
+6,1174,2023-12-30,,dhl,Attempted Delivery
+7,31,2024-12-05,2024-12-15,dhl,Delivered
+8,594,2022-07-26,2022-08-15,fedex,Returned to Sender
+9,1129,2024-03-12,,ups,Returned to Sender
+10,590,2021-09-19,,fedex,Delivered
+11,652,2022-10-27,,dhl,Returned to Sender
+12,635,2020-04-30,,usps,Out for Delivery
+13,258,2020-01-13,,bluedart,Attempted Delivery
+14,934,2020-07-28,2020-08-10,dhl,Out for Delivery
+15,686,2020-11-23,,ups,Out for Delivery
+16,7,2021-08-12,,usps,In Transit
+17,1257,2022-04-27,,usps,Attempted Delivery
+18,1103,2021-12-02,,fedex,Attempted Delivery
+19,1444,2023-02-11,2023-02-22,bluedart,Out for Delivery
+20,1456,2022-12-24,,ups,Returned to Sender
+21,1202,2021-12-16,,dhl,Delivered
+22,1197,2023-11-17,,dhl,Returned to Sender
+23,1289,2024-07-03,,usps,Delivered
+24,466,2024-05-29,,fedex,Attempted Delivery
+25,282,2024-03-15,,ups,Out for Delivery
+26,1192,2023-09-08,2023-09-25,bluedart,Returned to Sender
+27,231,2021-04-04,,usps,Attempted Delivery
+28,109,2023-02-03,,dhl,In Transit
+29,1130,2023-12-04,2024-01-03,bluedart,Attempted Delivery
+30,1123,2022-11-08,,dhl,Out for Delivery
+31,709,2023-08-16,2023-09-08,dhl,Returned to Sender
+32,223,2020-05-23,2020-06-15,ups,Returned to Sender
+33,521,2022-04-08,,bluedart,Out for Delivery
+34,1488,2020-04-19,,usps,Returned to Sender
+35,1159,2022-10-22,2022-11-18,usps,Delivered
+36,851,2021-10-07,,usps,In Transit
+37,1033,2023-11-30,,usps,In Transit
+38,61,2024-10-23,,dhl,Out for Delivery
+39,215,2023-09-07,,ups,In Transit
+40,828,2023-11-01,,bluedart,Delivered
+41,4,2020-12-23,,ups,Out for Delivery
+42,354,2022-03-21,,dhl,In Transit
+43,37,2021-08-14,,bluedart,Delivered
+44,1372,2021-09-29,,dhl,Attempted Delivery
+45,1223,2023-03-11,,usps,Returned to Sender
+46,1280,2023-10-10,,usps,Attempted Delivery
+47,1230,2023-12-15,,usps,Delivered
+48,656,2024-01-02,,dhl,Returned to Sender
+49,939,2021-06-18,,ups,In Transit
+50,425,2020-06-04,,ups,Delivered
+51,1158,2024-03-07,,usps,Delivered
+52,1068,2020-04-16,,ups,Delivered
+53,703,2021-05-06,,usps,Delivered
+54,415,2023-07-13,,bluedart,Delivered
+55,853,2022-10-24,,usps,Out for Delivery
+56,1127,2024-11-08,,ups,Out for Delivery
+57,155,2023-08-13,,usps,Out for Delivery
+58,1348,2023-09-09,,dhl,In Transit
+59,912,2022-08-27,2022-09-21,fedex,Out for Delivery
+60,1047,2024-06-29,,ups,In Transit
+61,657,2021-08-13,,bluedart,Delivered
+62,1302,2022-02-19,,bluedart,Out for Delivery
+63,1101,2024-03-13,,ups,Delivered
+64,1058,2023-09-10,,usps,Delivered
+65,697,2023-11-27,,ups,In Transit
+66,906,2020-01-13,,dhl,Out for Delivery
+67,75,2024-12-03,,usps,Returned to Sender
+68,393,2021-07-18,,bluedart,Delivered
+69,70,2022-04-16,,bluedart,Returned to Sender
+70,437,2021-01-16,,ups,Out for Delivery
+71,600,2022-09-15,,ups,Delivered
+72,693,2022-02-27,,fedex,Attempted Delivery
+73,1437,2024-03-03,,bluedart,Out for Delivery
+74,577,2020-02-29,,usps,Attempted Delivery
+75,969,2022-09-25,,usps,Attempted Delivery
+76,43,2023-01-13,,usps,Attempted Delivery
+77,1397,2023-09-01,,ups,Out for Delivery
+78,1382,2021-02-01,,usps,In Transit
+79,674,2023-09-23,,usps,Attempted Delivery
+80,802,2020-04-02,,usps,Returned to Sender
+81,458,2021-09-03,,usps,Attempted Delivery
+82,180,2023-11-28,,dhl,Out for Delivery
+83,1134,2022-10-19,,fedex,Returned to Sender
+84,636,2023-03-22,2023-04-01,dhl,In Transit
+85,675,2023-06-21,,usps,Delivered
+86,1184,2020-10-11,,dhl,Delivered
+87,570,2022-05-31,,usps,Attempted Delivery
+88,267,2023-07-01,,usps,In Transit
+89,471,2022-06-09,2022-07-07,ups,Returned to Sender
+90,1137,2020-06-20,,fedex,In Transit
+91,1189,2022-06-17,,usps,Delivered
+92,219,2022-05-02,,fedex,Out for Delivery
+93,964,2023-02-01,,fedex,Returned to Sender
+94,267,2022-04-28,,ups,Out for Delivery
+95,75,2021-10-07,,dhl,Delivered
+96,951,2023-10-01,,ups,In Transit
+97,1437,2021-07-28,,fedex,Returned to Sender
+98,459,2024-10-28,,fedex,Attempted Delivery
+99,332,2022-07-08,,dhl,Attempted Delivery
+100,840,2021-11-13,,usps,In Transit
+101,1467,2020-10-24,,bluedart,Out for Delivery
+102,1488,2020-04-06,,fedex,In Transit
+103,104,2023-04-09,,fedex,In Transit
+104,1463,2020-02-25,,fedex,In Transit
+105,860,2024-07-04,,usps,Out for Delivery
+106,1162,2024-07-10,,ups,Delivered
+107,577,2024-11-25,,bluedart,Out for Delivery
+108,14,2024-02-27,,dhl,Returned to Sender
+109,315,2020-05-14,,ups,Returned to Sender
+110,992,2024-05-06,,dhl,Returned to Sender
+111,635,2022-04-07,,bluedart,Delivered
+112,1465,2020-03-09,,ups,In Transit
+113,962,2021-04-28,,ups,Out for Delivery
+114,391,2021-10-06,,ups,In Transit
+115,593,2024-08-15,,usps,Attempted Delivery
+116,1315,2022-02-05,,dhl,Out for Delivery
+117,624,2021-08-09,,ups,Out for Delivery
+118,1295,2021-07-19,,bluedart,In Transit
+119,1206,2022-09-29,,bluedart,Delivered
+120,1394,2021-07-30,,dhl,Delivered
+121,464,2021-10-20,,bluedart,Delivered
+122,307,2020-04-07,,bluedart,Attempted Delivery
+123,692,2023-10-12,,usps,Attempted Delivery
+124,211,2023-06-26,,dhl,In Transit
+125,1449,2024-08-21,,fedex,Attempted Delivery
+126,673,2022-12-03,,usps,Returned to Sender
+127,829,2022-07-01,2022-07-14,usps,Out for Delivery
+128,21,2023-04-04,,dhl,Out for Delivery
+129,702,2020-11-16,,dhl,Out for Delivery
+130,1142,2020-05-02,,usps,Returned to Sender
+131,1349,2020-12-04,,fedex,Out for Delivery
+132,308,2023-12-02,,dhl,Out for Delivery
+133,282,2021-10-26,,fedex,Out for Delivery
+134,1361,2023-09-30,,dhl,Attempted Delivery
+135,1047,2020-10-21,,dhl,Delivered
+136,1262,2022-03-21,2022-04-18,usps,Returned to Sender
+137,836,2021-10-05,,fedex,Attempted Delivery
+138,1145,2020-10-24,,bluedart,Delivered
+139,906,2023-05-07,,usps,Out for Delivery
+140,508,2021-04-29,,bluedart,Attempted Delivery
+141,360,2021-12-04,,usps,Out for Delivery
+142,493,2021-05-13,,ups,Delivered
+143,423,2022-09-23,,dhl,In Transit
+144,1384,2020-06-25,,dhl,In Transit
+145,532,2022-12-24,,fedex,Attempted Delivery
+146,1239,2021-05-09,,usps,Delivered
+147,1213,2022-01-19,,ups,Returned to Sender
+148,466,2020-03-30,2020-04-10,usps,Attempted Delivery
+149,987,2022-12-13,,usps,Attempted Delivery
+150,229,2024-11-10,,dhl,In Transit
+151,1464,2024-03-01,,fedex,In Transit
+152,901,2024-03-25,,ups,Delivered
+153,1238,2024-07-09,,usps,Attempted Delivery
+154,949,2024-04-30,,ups,Delivered
+155,222,2022-03-27,,bluedart,Delivered
+156,640,2023-08-26,,ups,Delivered
+157,1081,2024-02-11,,usps,In Transit
+158,976,2021-08-15,,dhl,Attempted Delivery
+159,287,2022-01-04,2022-01-11,bluedart,Attempted Delivery
+160,396,2021-04-17,,usps,Attempted Delivery
+161,497,2023-01-10,,dhl,Delivered
+162,691,2021-09-19,,bluedart,Out for Delivery
+163,976,2020-06-30,,dhl,Returned to Sender
+164,1486,2021-01-13,,ups,Attempted Delivery
+165,184,2022-10-19,,bluedart,Out for Delivery
+166,1017,2021-05-17,,bluedart,Returned to Sender
+167,1438,2024-07-16,,bluedart,Out for Delivery
+168,315,2023-06-22,,ups,In Transit
+169,1102,2020-09-20,2020-10-07,bluedart,Out for Delivery
+170,207,2020-10-28,,dhl,In Transit
+171,958,2023-07-31,,bluedart,Attempted Delivery
+172,873,2024-02-22,,fedex,In Transit
+173,669,2024-10-27,,bluedart,Delivered
+174,1176,2021-05-28,,usps,Attempted Delivery
+175,57,2020-09-16,,ups,In Transit
+176,1078,2022-07-01,,usps,Attempted Delivery
+177,1470,2021-03-12,,dhl,In Transit
+178,1418,2024-02-12,,usps,Out for Delivery
+179,42,2022-05-23,,ups,Returned to Sender
+180,653,2024-09-03,,bluedart,Attempted Delivery
+181,1220,2022-10-27,,usps,Attempted Delivery
+182,994,2021-04-29,,bluedart,Delivered
+183,1160,2020-01-01,,fedex,Attempted Delivery
+184,807,2021-05-02,,dhl,Attempted Delivery
+185,813,2021-11-14,,bluedart,Delivered
+186,899,2024-06-18,,usps,In Transit
+187,790,2021-10-02,,dhl,Delivered
+188,426,2024-03-27,2024-04-05,usps,Out for Delivery
+189,873,2024-09-13,,dhl,Returned to Sender
+190,1275,2022-01-22,,fedex,Out for Delivery
+191,622,2020-06-24,,fedex,Delivered
+192,282,2020-11-03,,fedex,Delivered
+193,262,2022-04-13,,ups,Delivered
+194,906,2021-10-17,2021-11-14,usps,Delivered
+195,220,2023-05-31,,bluedart,Returned to Sender
+196,559,2021-05-28,,usps,Returned to Sender
+197,1153,2022-01-08,,ups,Delivered
+198,360,2021-10-05,2021-10-27,ups,Delivered
+199,1484,2020-11-19,,bluedart,Delivered
+200,1314,2021-11-23,,dhl,In Transit
+201,945,2022-03-13,2022-03-31,ups,In Transit
+202,1257,2022-07-23,,usps,Out for Delivery
+203,620,2023-01-24,,bluedart,In Transit
+204,561,2020-02-08,2020-02-17,ups,Out for Delivery
+205,719,2022-11-03,,fedex,Returned to Sender
+206,485,2020-09-30,,usps,Delivered
+207,791,2020-11-17,,fedex,In Transit
+208,79,2020-05-13,,ups,Returned to Sender
+209,118,2021-04-29,2021-05-11,fedex,Returned to Sender
+210,826,2023-04-12,,usps,Delivered
+211,1470,2021-05-05,,bluedart,Delivered
+212,711,2021-09-08,,dhl,Returned to Sender
+213,1465,2020-10-10,,usps,Returned to Sender
+214,1097,2022-05-23,,ups,In Transit
+215,18,2020-05-11,2020-05-23,bluedart,Delivered
+216,320,2023-05-15,2023-05-28,fedex,Delivered
+217,1193,2021-11-16,2021-12-15,usps,Out for Delivery
+218,590,2023-11-23,,ups,Attempted Delivery
+219,1137,2020-01-31,,ups,Attempted Delivery
+220,1449,2020-10-08,2020-11-06,ups,Returned to Sender
+221,900,2020-06-30,,usps,Attempted Delivery
+222,211,2024-01-24,,fedex,Delivered
+223,776,2020-07-10,,bluedart,Returned to Sender
+224,1275,2021-12-12,,usps,Delivered
+225,630,2021-12-29,,fedex,Out for Delivery
+226,1190,2023-07-05,,bluedart,In Transit
+227,1349,2022-07-27,,dhl,In Transit
+228,1428,2023-07-17,,bluedart,Attempted Delivery
+229,996,2024-01-25,,bluedart,Attempted Delivery
+230,1248,2024-06-15,,usps,Delivered
+231,81,2022-06-02,,bluedart,Returned to Sender
+232,116,2022-05-07,,fedex,Delivered
+233,1355,2020-08-18,,bluedart,Out for Delivery
+234,472,2021-11-04,,fedex,Attempted Delivery
+235,151,2021-05-01,2021-05-18,dhl,Attempted Delivery
+236,1439,2023-06-27,,bluedart,In Transit
+237,159,2021-08-19,2021-08-28,fedex,Delivered
+238,45,2024-10-22,,bluedart,Out for Delivery
+239,1233,2024-11-08,,ups,Attempted Delivery
+240,1375,2022-10-24,,ups,Delivered
+241,738,2023-07-29,,fedex,Attempted Delivery
+242,1421,2023-04-07,,ups,Returned to Sender
+243,678,2021-12-02,,fedex,Out for Delivery
+244,1290,2021-01-17,,usps,Attempted Delivery
+245,961,2022-04-10,,usps,Returned to Sender
+246,1048,2022-05-01,,fedex,Out for Delivery
+247,585,2024-11-02,,dhl,In Transit
+248,529,2022-03-05,,usps,Attempted Delivery
+249,1123,2024-04-16,,ups,Attempted Delivery
+250,1130,2020-03-06,,bluedart,In Transit
+251,210,2021-04-07,,bluedart,Returned to Sender
+252,646,2022-02-05,,dhl,In Transit
+253,296,2023-03-15,,bluedart,Returned to Sender
+254,434,2021-02-07,,ups,Attempted Delivery
+255,1124,2020-03-25,,dhl,Returned to Sender
+256,228,2024-01-20,,bluedart,Returned to Sender
+257,405,2024-04-05,,fedex,In Transit
+258,269,2021-06-05,,usps,Out for Delivery
+259,786,2021-06-19,,usps,Out for Delivery
+260,1340,2022-02-13,,fedex,Attempted Delivery
+261,1465,2024-06-27,,dhl,Attempted Delivery
+262,1071,2024-06-29,,dhl,Returned to Sender
+263,444,2024-05-22,,dhl,Attempted Delivery
+264,1029,2023-03-21,,bluedart,In Transit
+265,16,2020-05-19,,usps,Returned to Sender
+266,784,2023-11-17,,ups,Out for Delivery
+267,1255,2022-02-10,,fedex,Delivered
+268,1114,2024-09-18,,ups,In Transit
+269,849,2020-08-23,,bluedart,Returned to Sender
+270,625,2021-03-06,,fedex,In Transit
+271,1224,2023-02-02,,ups,Attempted Delivery
+272,562,2022-10-04,,ups,Returned to Sender
+273,1159,2021-04-30,,dhl,Delivered
+274,1115,2023-10-26,,fedex,Out for Delivery
+275,1459,2020-07-20,,bluedart,Out for Delivery
+276,462,2021-10-08,,fedex,In Transit
+277,1420,2021-06-30,,ups,In Transit
+278,516,2024-05-28,,fedex,Out for Delivery
+279,1466,2020-11-07,,bluedart,Returned to Sender
+280,1033,2023-05-14,,fedex,Out for Delivery
+281,797,2021-05-06,,fedex,Delivered
+282,1481,2022-09-06,,ups,In Transit
+283,554,2023-06-17,,fedex,Attempted Delivery
+284,1098,2020-03-23,,ups,Delivered
+285,1297,2021-04-22,,bluedart,Delivered
+286,169,2022-01-08,,bluedart,Out for Delivery
+287,1500,2020-03-08,,usps,Delivered
+288,757,2023-10-03,,fedex,Attempted Delivery
+289,557,2024-02-14,,fedex,Returned to Sender
+290,442,2024-01-18,,bluedart,Returned to Sender
+291,1450,2020-08-22,2020-08-30,usps,Delivered
+292,544,2022-05-22,,bluedart,In Transit
+293,1154,2020-05-15,2020-06-10,bluedart,Out for Delivery
+294,19,2020-04-24,,dhl,In Transit
+295,1119,2020-01-23,,dhl,Out for Delivery
+296,1293,2020-03-09,2020-04-06,usps,Delivered
+297,645,2021-08-18,,bluedart,Delivered
+298,1469,2021-03-25,,fedex,Returned to Sender
+299,1071,2024-09-14,,bluedart,Out for Delivery
+300,124,2022-09-06,,usps,Out for Delivery
+301,1114,2023-11-23,,usps,Returned to Sender
+302,980,2021-08-26,,bluedart,Delivered
+303,777,2023-08-04,,usps,Delivered
+304,596,2022-10-27,,usps,Returned to Sender
+305,733,2021-05-03,,bluedart,Attempted Delivery
+306,107,2020-08-24,,bluedart,In Transit
+307,405,2022-06-07,,dhl,Returned to Sender
+308,295,2021-01-23,,dhl,In Transit
+309,1119,2023-06-06,,usps,Attempted Delivery
+310,147,2023-02-04,,dhl,Returned to Sender
+311,783,2024-07-24,,fedex,Out for Delivery
+312,90,2021-01-29,,fedex,Attempted Delivery
+313,409,2022-03-26,,fedex,Attempted Delivery
+314,192,2021-08-15,,usps,In Transit
+315,1287,2020-10-13,,ups,Attempted Delivery
+316,1150,2023-07-30,,dhl,Returned to Sender
+317,68,2024-05-21,,usps,Delivered
+318,755,2022-06-08,,dhl,Out for Delivery
+319,781,2024-11-20,2024-12-16,bluedart,Delivered
+320,792,2024-05-13,,dhl,Delivered
+321,84,2020-03-25,,ups,Returned to Sender
+322,641,2024-09-04,,dhl,Delivered
+323,1280,2023-12-13,,usps,In Transit
+324,522,2021-04-28,,usps,In Transit
+325,787,2023-03-21,2023-04-09,ups,Returned to Sender
+326,192,2024-05-22,,ups,Out for Delivery
+327,254,2024-04-24,,fedex,In Transit
+328,22,2024-03-17,,dhl,Returned to Sender
+329,460,2023-06-18,,fedex,Out for Delivery
+330,68,2024-02-21,,bluedart,Out for Delivery
+331,1427,2020-10-21,,dhl,In Transit
+332,1148,2024-01-20,,bluedart,Attempted Delivery
+333,302,2021-09-15,,fedex,Out for Delivery
+334,1256,2023-05-14,,ups,Returned to Sender
+335,683,2023-12-09,,ups,Out for Delivery
+336,109,2021-02-01,,dhl,Attempted Delivery
+337,1420,2023-06-20,,usps,In Transit
+338,399,2024-06-22,,bluedart,Delivered
+339,1346,2020-02-27,,ups,Out for Delivery
+340,298,2021-05-18,,ups,Attempted Delivery
+341,187,2022-02-25,,bluedart,Attempted Delivery
+342,6,2021-12-28,,fedex,Attempted Delivery
+343,1288,2020-07-26,,ups,Attempted Delivery
+344,393,2024-12-04,,dhl,Returned to Sender
+345,99,2021-05-20,,dhl,Returned to Sender
+346,388,2024-09-03,,dhl,Out for Delivery
+347,1044,2023-01-09,,bluedart,Returned to Sender
+348,1010,2020-09-22,,dhl,Delivered
+349,712,2024-02-16,,bluedart,In Transit
+350,493,2023-04-19,,usps,In Transit
+351,898,2021-07-30,,fedex,In Transit
+352,439,2024-05-03,,dhl,Delivered
+353,726,2020-07-03,,bluedart,Delivered
+354,533,2020-05-21,,ups,Delivered
+355,1270,2022-12-29,,dhl,Attempted Delivery
+356,798,2024-04-18,,dhl,Returned to Sender
+357,986,2024-07-25,,dhl,In Transit
+358,1176,2021-10-12,,usps,Delivered
+359,294,2020-09-18,,ups,Attempted Delivery
+360,316,2023-11-16,,dhl,Delivered
+361,1060,2020-08-11,2020-09-04,ups,Returned to Sender
+362,28,2022-04-13,,ups,Attempted Delivery
+363,708,2020-07-03,,ups,Attempted Delivery
+364,935,2020-01-14,,ups,Out for Delivery
+365,972,2023-07-24,,fedex,Out for Delivery
+366,794,2022-10-18,,usps,Attempted Delivery
+367,1306,2021-04-25,2021-05-21,usps,Returned to Sender
+368,251,2023-03-16,,ups,Returned to Sender
+369,371,2020-09-01,,fedex,Out for Delivery
+370,814,2021-01-24,,bluedart,Delivered
+371,433,2024-03-30,,fedex,Delivered
+372,864,2023-09-01,2023-09-29,dhl,Attempted Delivery
+373,164,2022-08-02,,usps,Returned to Sender
+374,1166,2020-01-12,,fedex,Out for Delivery
+375,1149,2024-01-02,,dhl,Attempted Delivery
+376,1053,2024-10-11,,dhl,Attempted Delivery
+377,1199,2023-05-30,,usps,Delivered
+378,90,2024-08-04,,bluedart,Returned to Sender
+379,715,2020-09-06,,dhl,Returned to Sender
+380,961,2023-02-14,,usps,Delivered
+381,80,2023-11-09,,dhl,Delivered
+382,396,2020-07-28,,fedex,Returned to Sender
+383,963,2024-06-02,,dhl,Returned to Sender
+384,1305,2021-10-13,,ups,Out for Delivery
+385,1452,2022-09-16,,ups,Out for Delivery
+386,996,2021-01-20,2021-02-04,ups,Attempted Delivery
+387,1441,2023-12-11,,ups,In Transit
+388,542,2022-03-31,,fedex,Attempted Delivery
+389,300,2020-06-12,2020-07-08,bluedart,Attempted Delivery
+390,633,2020-07-27,,ups,In Transit
+391,947,2021-10-09,,bluedart,Delivered
+392,703,2021-09-09,,usps,In Transit
+393,59,2021-12-12,,ups,Returned to Sender
+394,1131,2023-04-27,,fedex,Delivered
+395,835,2023-05-16,,bluedart,In Transit
+396,557,2021-02-14,,fedex,Delivered
+397,92,2021-01-23,2021-02-10,ups,In Transit
+398,385,2021-05-29,,bluedart,Out for Delivery
+399,256,2020-07-10,,dhl,Delivered
+400,25,2023-09-25,,fedex,Delivered
+401,697,2024-03-02,,bluedart,In Transit
+402,1056,2023-03-23,2023-04-07,fedex,Out for Delivery
+403,367,2020-08-31,,ups,Attempted Delivery
+404,540,2021-08-15,,usps,In Transit
+405,1189,2023-09-12,,dhl,Attempted Delivery
+406,1416,2021-10-08,,dhl,Returned to Sender
+407,1375,2022-06-01,,usps,Returned to Sender
+408,1106,2024-05-11,,ups,Delivered
+409,430,2022-11-22,,usps,Out for Delivery
+410,1093,2024-01-26,,fedex,In Transit
+411,486,2021-09-30,2021-10-23,bluedart,Out for Delivery
+412,413,2020-10-03,,bluedart,Returned to Sender
+413,1247,2024-01-11,2024-01-18,ups,Attempted Delivery
+414,762,2021-11-27,,ups,Out for Delivery
+415,268,2023-12-22,,fedex,Out for Delivery
+416,206,2023-10-17,,ups,Attempted Delivery
+417,18,2020-01-07,,dhl,In Transit
+418,1472,2020-05-01,2020-05-27,ups,In Transit
+419,827,2023-11-05,,usps,Returned to Sender
+420,1317,2021-05-06,2021-05-17,usps,Delivered
+421,668,2022-02-16,,usps,In Transit
+422,889,2021-04-11,,usps,In Transit
+423,229,2021-07-15,,fedex,In Transit
+424,357,2022-11-24,2022-12-24,ups,Out for Delivery
+425,1291,2024-06-23,,fedex,Delivered
+426,1402,2021-08-24,,fedex,Delivered
+427,212,2022-04-27,,bluedart,Out for Delivery
+428,392,2024-05-03,,usps,Attempted Delivery
+429,817,2022-11-22,,dhl,Returned to Sender
+430,195,2023-07-14,,ups,Returned to Sender
+431,1449,2021-05-20,,bluedart,In Transit
+432,490,2024-02-24,,bluedart,Out for Delivery
+433,232,2024-06-16,,dhl,Attempted Delivery
+434,1161,2020-09-25,,ups,Out for Delivery
+435,987,2021-07-01,,fedex,Delivered
+436,1343,2024-08-02,,ups,Attempted Delivery
+437,330,2020-10-12,,bluedart,In Transit
+438,1037,2023-11-04,,fedex,Out for Delivery
+439,567,2024-01-18,,bluedart,Attempted Delivery
+440,257,2020-10-22,,dhl,Delivered
+441,676,2021-02-01,,bluedart,In Transit
+442,825,2021-08-29,,fedex,Attempted Delivery
+443,1074,2024-06-20,,dhl,In Transit
+444,500,2023-12-01,,fedex,Returned to Sender
+445,105,2023-05-09,,ups,Returned to Sender
+446,1310,2024-04-01,,fedex,Delivered
+447,758,2024-04-23,,fedex,Returned to Sender
+448,604,2021-06-06,,ups,In Transit
+449,1202,2022-06-28,,bluedart,Attempted Delivery
+450,807,2021-08-17,,dhl,Delivered
+451,816,2024-11-22,,ups,Out for Delivery
+452,990,2023-11-24,2023-12-20,dhl,Delivered
+453,832,2024-08-27,,bluedart,Delivered
+454,992,2024-01-06,,ups,In Transit
+455,655,2022-06-13,,usps,Delivered
+456,1290,2020-03-13,,dhl,Delivered
+457,1439,2020-11-30,,dhl,Out for Delivery
+458,187,2023-09-06,,bluedart,Out for Delivery
+459,560,2023-02-23,,fedex,In Transit
+460,1343,2021-10-05,,fedex,Out for Delivery
+461,150,2024-06-07,,dhl,Returned to Sender
+462,1061,2022-10-16,,usps,Attempted Delivery
+463,571,2023-10-30,,bluedart,In Transit
+464,18,2022-06-28,,usps,In Transit
+465,128,2022-06-27,,dhl,Out for Delivery
+466,924,2022-04-25,2022-05-22,ups,In Transit
+467,754,2021-10-13,,usps,Out for Delivery
+468,777,2023-04-12,2023-05-10,ups,Out for Delivery
+469,291,2023-12-29,2024-01-23,dhl,Delivered
+470,98,2020-08-01,2020-08-20,bluedart,Delivered
+471,1377,2024-04-27,,fedex,Attempted Delivery
+472,1322,2021-03-10,,usps,Delivered
+473,1279,2023-11-15,,fedex,Delivered
+474,608,2021-11-30,,ups,Out for Delivery
+475,953,2022-10-01,,fedex,Attempted Delivery
+476,907,2024-07-07,,bluedart,Attempted Delivery
+477,1008,2021-04-25,2021-05-05,usps,Returned to Sender
+478,991,2020-10-17,,dhl,Delivered
+479,92,2022-06-26,,ups,Attempted Delivery
+480,1393,2021-04-27,,usps,Delivered
+481,524,2024-01-05,,fedex,Returned to Sender
+482,738,2021-06-01,,bluedart,In Transit
+483,1006,2021-07-20,,fedex,Returned to Sender
+484,838,2024-10-13,,ups,Delivered
+485,952,2021-02-12,,ups,Out for Delivery
+486,1449,2021-10-15,,ups,In Transit
+487,778,2023-12-12,2023-12-20,usps,Returned to Sender
+488,388,2022-08-25,,ups,Returned to Sender
+489,875,2021-02-28,,dhl,Delivered
+490,1455,2020-02-26,,fedex,Delivered
+491,621,2023-10-21,,usps,Returned to Sender
+492,995,2022-08-18,,bluedart,Delivered
+493,429,2022-06-10,,ups,Delivered
+494,363,2021-07-18,,fedex,Attempted Delivery
+495,1053,2020-03-26,,ups,Delivered
+496,1035,2022-09-06,,fedex,Out for Delivery
+497,358,2021-02-17,,usps,In Transit
+498,778,2022-05-06,,fedex,Attempted Delivery
+499,421,2022-11-30,,bluedart,Out for Delivery
+500,1473,2020-09-07,,fedex,Returned to Sender
+501,1281,2021-06-26,,fedex,Delivered
+502,700,2024-11-06,,usps,Out for Delivery
+503,175,2024-10-31,,dhl,Attempted Delivery
+504,1232,2024-04-04,,bluedart,In Transit
+505,97,2020-11-06,,dhl,Delivered
+506,1065,2022-04-04,,usps,Delivered
+507,1025,2020-06-28,,dhl,Delivered
+508,601,2021-02-06,,fedex,In Transit
+509,1159,2021-01-23,,dhl,In Transit
+510,414,2022-05-11,2022-05-18,dhl,In Transit
+511,329,2024-06-04,,usps,Delivered
+512,573,2021-08-23,,usps,In Transit
+513,852,2021-11-10,,usps,Returned to Sender
+514,207,2021-04-14,,ups,In Transit
+515,39,2021-10-01,2021-10-21,usps,Delivered
+516,459,2024-08-03,,bluedart,Delivered
+517,1041,2023-09-13,,bluedart,Returned to Sender
+518,751,2022-12-11,,dhl,Delivered
+519,1388,2024-01-12,,dhl,Returned to Sender
+520,43,2023-03-25,,dhl,In Transit
+521,156,2022-09-24,,bluedart,Out for Delivery
+522,17,2021-06-19,,usps,In Transit
+523,1211,2021-07-29,,usps,In Transit
+524,544,2022-01-07,,fedex,Delivered
+525,670,2020-05-20,,dhl,Returned to Sender
+526,1452,2024-10-12,,dhl,Delivered
+527,151,2023-05-23,,usps,Attempted Delivery
+528,1129,2024-08-23,,fedex,In Transit
+529,1225,2020-03-30,,dhl,Delivered
+530,509,2020-09-08,,bluedart,Delivered
+531,955,2023-06-17,,usps,In Transit
+532,1261,2022-03-23,,usps,Out for Delivery
+533,1011,2022-05-11,,bluedart,Returned to Sender
+534,981,2020-02-12,2020-02-19,fedex,In Transit
+535,1481,2020-03-29,,dhl,In Transit
+536,846,2021-08-12,,ups,Attempted Delivery
+537,288,2020-05-26,2020-06-02,bluedart,Returned to Sender
+538,1094,2020-02-22,,ups,In Transit
+539,460,2020-06-16,,usps,In Transit
+540,1007,2020-06-24,2020-07-23,bluedart,Attempted Delivery
+541,159,2020-09-29,,fedex,In Transit
+542,548,2023-11-18,,fedex,Out for Delivery
+543,1059,2022-04-10,,fedex,Out for Delivery
+544,1206,2023-12-16,2023-12-28,bluedart,Out for Delivery
+545,1057,2024-08-02,,bluedart,Attempted Delivery
+546,365,2024-06-15,2024-06-25,fedex,Delivered
+547,405,2024-07-23,,ups,Delivered
+548,1482,2020-02-28,2020-03-09,fedex,Delivered
+549,1190,2023-10-25,,ups,Out for Delivery
+550,815,2024-10-29,,fedex,In Transit
+551,1190,2021-09-14,,fedex,Out for Delivery
+552,813,2021-08-13,,dhl,Out for Delivery
+553,681,2022-03-11,,bluedart,Returned to Sender
+554,1416,2020-05-28,,fedex,Returned to Sender
+555,248,2024-08-04,,ups,Returned to Sender
+556,169,2020-12-12,,dhl,Out for Delivery
+557,646,2023-04-15,2023-05-04,bluedart,Attempted Delivery
+558,1406,2023-11-04,,ups,Delivered
+559,1242,2021-09-30,,dhl,Out for Delivery
+560,951,2024-06-13,,dhl,Delivered
+561,895,2022-07-31,,dhl,Attempted Delivery
+562,351,2020-02-25,,ups,In Transit
+563,762,2024-01-08,,usps,In Transit
+564,400,2021-11-24,,fedex,In Transit
+565,718,2021-09-24,,ups,Delivered
+566,406,2020-02-04,,bluedart,Returned to Sender
+567,1100,2024-06-02,,bluedart,Delivered
+568,210,2021-03-10,2021-03-23,ups,Attempted Delivery
+569,1294,2023-01-11,,dhl,Attempted Delivery
+570,678,2023-09-17,,dhl,Delivered
+571,557,2024-10-30,,dhl,Out for Delivery
+572,262,2021-01-21,,ups,Delivered
+573,156,2021-11-17,,dhl,Out for Delivery
+574,49,2022-01-02,,dhl,Delivered
+575,261,2022-05-12,,fedex,In Transit
+576,195,2020-08-02,,bluedart,Out for Delivery
+577,781,2023-09-11,,ups,Out for Delivery
+578,671,2023-01-15,,dhl,Attempted Delivery
+579,624,2023-11-29,,usps,Delivered
+580,819,2023-07-06,,usps,Delivered
+581,174,2022-08-05,,fedex,Returned to Sender
+582,833,2021-05-10,2021-05-25,dhl,Returned to Sender
+583,193,2020-06-19,,ups,Attempted Delivery
+584,723,2024-02-03,,fedex,In Transit
+585,134,2024-07-07,2024-08-03,usps,Returned to Sender
+586,1231,2022-10-23,,fedex,Returned to Sender
+587,881,2021-06-01,,ups,Attempted Delivery
+588,1159,2020-03-22,,dhl,Attempted Delivery
+589,677,2021-03-14,,bluedart,Returned to Sender
+590,743,2021-01-21,,usps,Returned to Sender
+591,635,2020-04-28,,fedex,Attempted Delivery
+592,1009,2021-04-16,,ups,In Transit
+593,872,2024-05-29,,bluedart,Out for Delivery
+594,1288,2021-02-24,,dhl,Out for Delivery
+595,844,2023-05-19,,ups,Out for Delivery
+596,109,2021-09-17,2021-09-24,usps,In Transit
+597,1118,2023-06-06,,usps,Attempted Delivery
+598,148,2022-09-30,,fedex,Returned to Sender
+599,815,2023-11-14,2023-11-30,dhl,In Transit
+600,55,2021-10-27,,bluedart,Returned to Sender
+601,512,2020-10-17,,ups,Returned to Sender
+602,198,2020-04-22,,dhl,Delivered
+603,1500,2023-01-02,,usps,Returned to Sender
+604,1176,2024-07-09,,bluedart,Returned to Sender
+605,654,2020-06-15,,ups,Attempted Delivery
+606,380,2020-05-15,,usps,Delivered
+607,716,2020-06-30,,bluedart,Returned to Sender
+608,1113,2022-12-23,2023-01-09,dhl,Delivered
+609,1375,2021-07-20,,ups,Delivered
+610,12,2022-08-27,,bluedart,Delivered
+611,1196,2022-11-17,,usps,In Transit
+612,113,2023-08-17,,usps,Out for Delivery
+613,1263,2024-02-15,,fedex,Out for Delivery
+614,1360,2024-06-15,,fedex,Attempted Delivery
+615,1406,2022-12-07,,bluedart,Attempted Delivery
+616,1409,2022-06-26,,ups,Out for Delivery
+617,1353,2023-10-21,,fedex,Delivered
+618,1368,2021-02-20,,ups,In Transit
+619,1201,2021-07-18,,dhl,In Transit
+620,1260,2023-04-24,,usps,Attempted Delivery
+621,115,2021-04-06,,ups,Delivered
+622,901,2024-06-30,2024-07-17,fedex,Delivered
+623,1131,2021-02-04,,dhl,Delivered
+624,65,2024-04-19,,dhl,Returned to Sender
+625,673,2024-05-23,,usps,In Transit
+626,126,2024-01-10,,ups,Returned to Sender
+627,611,2023-09-07,,usps,In Transit
+628,394,2022-10-06,,usps,In Transit
+629,1040,2022-04-03,2022-04-10,dhl,Delivered
+630,1321,2021-10-19,,usps,In Transit
+631,1070,2022-03-05,,bluedart,Delivered
+632,1063,2024-07-13,,usps,Returned to Sender
+633,798,2020-08-14,,bluedart,In Transit
+634,668,2022-07-18,,bluedart,Out for Delivery
+635,187,2020-02-11,,fedex,Out for Delivery
+636,996,2020-09-30,,fedex,Returned to Sender
+637,20,2024-04-03,,fedex,Returned to Sender
+638,1084,2022-12-12,,dhl,Attempted Delivery
+639,475,2022-11-30,,ups,In Transit
+640,674,2022-11-04,,bluedart,Returned to Sender
+641,358,2022-09-23,,dhl,In Transit
+642,1488,2020-06-14,,usps,Delivered
+643,1423,2023-09-21,,bluedart,In Transit
+644,788,2020-06-18,,dhl,Returned to Sender
+645,554,2020-10-12,,bluedart,Attempted Delivery
+646,987,2021-02-04,,dhl,Attempted Delivery
+647,170,2020-06-03,,bluedart,Attempted Delivery
+648,975,2020-02-02,,dhl,Attempted Delivery
+649,344,2021-03-29,,ups,Out for Delivery
+650,557,2022-08-22,,usps,Out for Delivery
+651,536,2023-09-09,,bluedart,Delivered
+652,509,2022-12-20,,ups,Out for Delivery
+653,674,2021-11-29,,fedex,Returned to Sender
+654,586,2020-10-03,,ups,Attempted Delivery
+655,1440,2023-11-01,,fedex,Out for Delivery
+656,1156,2020-06-06,,fedex,Out for Delivery
+657,834,2022-06-13,,usps,Delivered
+658,959,2020-11-20,,ups,Out for Delivery
+659,304,2024-05-12,,bluedart,In Transit
+660,75,2021-12-01,,usps,Attempted Delivery
+661,881,2021-06-16,,bluedart,Returned to Sender
+662,70,2024-06-12,2024-06-19,bluedart,Delivered
+663,565,2023-06-01,,ups,Returned to Sender
+664,35,2022-07-25,,bluedart,In Transit
+665,698,2024-02-22,2024-03-08,fedex,Attempted Delivery
+666,307,2021-10-05,,ups,Attempted Delivery
+667,1403,2024-08-15,,dhl,Returned to Sender
+668,1306,2023-10-03,,ups,Out for Delivery
+669,1082,2021-10-13,,fedex,Returned to Sender
+670,90,2020-03-26,,bluedart,Attempted Delivery
+671,1457,2024-02-16,,dhl,In Transit
+672,732,2022-07-19,,fedex,Delivered
+673,149,2020-12-01,,ups,Returned to Sender
+674,345,2022-07-12,,ups,Delivered
+675,747,2024-11-19,,usps,Returned to Sender
+676,1474,2021-01-27,,usps,Returned to Sender
+677,26,2022-10-02,,ups,Returned to Sender
+678,213,2023-05-29,,dhl,Delivered
+679,1409,2022-10-30,,bluedart,Attempted Delivery
+680,586,2022-05-08,,ups,In Transit
+681,1357,2024-06-03,2024-06-18,ups,Attempted Delivery
+682,799,2024-10-12,,usps,In Transit
+683,1249,2021-08-04,,usps,Out for Delivery
+684,265,2023-11-18,,fedex,Out for Delivery
+685,211,2022-05-15,,ups,Attempted Delivery
+686,104,2021-07-02,2021-07-27,fedex,Returned to Sender
+687,555,2024-10-20,,bluedart,Out for Delivery
+688,1296,2023-02-28,,ups,Attempted Delivery
+689,1146,2024-04-04,,fedex,In Transit
+690,592,2020-12-10,,bluedart,Attempted Delivery
+691,1140,2022-08-22,,ups,Returned to Sender
+692,970,2020-08-12,,usps,Out for Delivery
+693,1396,2024-03-19,,fedex,In Transit
+694,114,2021-12-04,,usps,Returned to Sender
+695,405,2024-03-10,,bluedart,Delivered
+696,1177,2021-05-04,,fedex,Delivered
+697,1275,2023-03-05,,usps,Returned to Sender
+698,393,2024-06-04,,dhl,In Transit
+699,18,2020-06-19,,ups,In Transit
+700,460,2021-02-20,,bluedart,Out for Delivery
+701,119,2020-09-13,2020-10-02,bluedart,In Transit
+702,1155,2024-04-29,,dhl,Out for Delivery
+703,830,2021-11-13,,usps,Delivered
+704,408,2024-09-22,,ups,Returned to Sender
+705,30,2021-09-09,,usps,In Transit
+706,1139,2023-01-03,,usps,In Transit
+707,654,2022-09-26,,ups,Attempted Delivery
+708,762,2022-12-29,2023-01-25,ups,In Transit
+709,331,2021-11-01,,dhl,In Transit
+710,138,2023-09-25,,dhl,Returned to Sender
+711,4,2023-05-29,,ups,Out for Delivery
+712,237,2020-01-15,,ups,In Transit
+713,510,2020-10-08,2020-10-18,fedex,Delivered
+714,1394,2022-05-20,,usps,Attempted Delivery
+715,252,2023-01-04,,ups,Returned to Sender
+716,232,2021-08-31,,fedex,Out for Delivery
+717,915,2020-11-05,,bluedart,Attempted Delivery
+718,1079,2024-09-23,,fedex,Out for Delivery
+719,253,2021-07-04,2021-07-27,fedex,Delivered
+720,33,2022-04-12,,bluedart,Returned to Sender
+721,954,2023-09-16,2023-09-27,ups,Returned to Sender
+722,1271,2024-01-03,2024-01-26,bluedart,Attempted Delivery
+723,2,2020-03-14,,dhl,Out for Delivery
+724,70,2024-03-28,,usps,Delivered
+725,1030,2022-12-09,,dhl,In Transit
+726,705,2024-04-03,,dhl,In Transit
+727,634,2021-01-20,,bluedart,Returned to Sender
+728,879,2023-10-23,,ups,Out for Delivery
+729,109,2022-03-12,,usps,In Transit
+730,823,2022-11-30,,bluedart,Returned to Sender
+731,683,2023-10-08,,ups,In Transit
+732,990,2021-05-18,,usps,Returned to Sender
+733,829,2021-11-21,,bluedart,In Transit
+734,770,2023-09-10,,ups,Returned to Sender
+735,199,2023-02-04,,dhl,Attempted Delivery
+736,745,2022-02-03,,bluedart,Out for Delivery
+737,1398,2021-02-03,,fedex,In Transit
+738,112,2020-08-02,,dhl,Returned to Sender
+739,369,2023-08-09,,usps,Attempted Delivery
+740,1427,2023-08-25,,ups,Out for Delivery
+741,1232,2024-08-17,,bluedart,Attempted Delivery
+742,1408,2023-05-02,,bluedart,Attempted Delivery
+743,1361,2024-12-02,,usps,Delivered
+744,1412,2022-06-18,,usps,Returned to Sender
+745,510,2020-02-07,,bluedart,Delivered
+746,823,2024-03-22,,ups,Attempted Delivery
+747,890,2020-05-22,,usps,In Transit
+748,1107,2021-10-25,,fedex,Returned to Sender
+749,442,2023-09-03,,usps,In Transit
+750,917,2021-06-23,2021-07-11,fedex,Attempted Delivery
+751,7,2023-11-04,2023-11-18,ups,Out for Delivery
+752,770,2022-09-30,,usps,Delivered
+753,856,2022-02-18,2022-03-20,dhl,Out for Delivery
+754,806,2021-01-05,,fedex,In Transit
+755,764,2023-12-08,,ups,Attempted Delivery
+756,1135,2020-08-15,,usps,Delivered
+757,1130,2024-08-14,,bluedart,Delivered
+758,318,2021-11-07,,usps,Delivered
+759,1326,2020-02-29,,dhl,Attempted Delivery
+760,152,2023-10-03,,dhl,Delivered
+761,659,2024-02-19,,bluedart,Returned to Sender
+762,26,2024-03-19,,dhl,Attempted Delivery
+763,929,2021-12-19,,dhl,Returned to Sender
+764,922,2023-06-26,,fedex,Attempted Delivery
+765,608,2020-02-13,,ups,In Transit
+766,776,2020-01-01,2020-01-23,ups,Returned to Sender
+767,757,2023-12-13,,ups,Delivered
+768,116,2024-04-08,,dhl,Delivered
+769,887,2024-07-30,,dhl,Delivered
+770,1342,2023-06-04,,bluedart,In Transit
+771,696,2022-10-26,,bluedart,Out for Delivery
+772,655,2023-05-21,,fedex,In Transit
+773,218,2022-09-11,,ups,Attempted Delivery
+774,768,2024-03-04,,ups,Out for Delivery
+775,60,2024-04-21,,dhl,Delivered
+776,197,2022-05-01,,usps,Delivered
+777,305,2022-04-28,,bluedart,In Transit
+778,32,2023-08-01,,bluedart,Out for Delivery
+779,148,2024-11-04,,bluedart,Returned to Sender
+780,917,2023-04-29,,usps,Returned to Sender
+781,988,2023-12-04,,ups,Attempted Delivery
+782,378,2024-08-20,,ups,Returned to Sender
+783,1339,2024-08-20,,dhl,Attempted Delivery
+784,731,2020-03-30,,dhl,Attempted Delivery
+785,1325,2023-10-01,,dhl,Delivered
+786,292,2021-10-25,,dhl,In Transit
+787,483,2023-05-27,2023-06-25,dhl,Out for Delivery
+788,1168,2021-06-14,,usps,Attempted Delivery
+789,317,2020-05-24,2020-06-13,usps,In Transit
+790,1198,2021-06-08,,fedex,Returned to Sender
+791,1257,2020-04-29,,fedex,In Transit
+792,348,2021-06-05,,usps,Out for Delivery
+793,957,2024-08-20,,dhl,Delivered
+794,459,2023-08-30,,fedex,Attempted Delivery
+795,1426,2023-04-22,,bluedart,Delivered
+796,360,2024-12-01,,ups,Out for Delivery
+797,1068,2021-01-10,,usps,Attempted Delivery
+798,1480,2021-03-31,,usps,Delivered
+799,1402,2021-12-15,,dhl,In Transit
+800,465,2024-05-29,,ups,In Transit
+801,431,2021-05-27,,fedex,Attempted Delivery
+802,1156,2020-05-29,,bluedart,Returned to Sender
+803,800,2022-04-11,,dhl,Attempted Delivery
+804,65,2021-01-29,,fedex,Out for Delivery
+805,754,2021-07-13,,usps,Out for Delivery
+806,341,2024-04-18,,ups,Out for Delivery
+807,944,2020-10-18,,bluedart,Returned to Sender
+808,1212,2023-03-14,,ups,Out for Delivery
+809,1322,2024-03-02,,dhl,Out for Delivery
+810,1235,2020-06-10,2020-06-24,usps,In Transit
+811,978,2021-05-16,,ups,Delivered
+812,673,2022-04-05,,bluedart,Out for Delivery
+813,1357,2020-07-29,,fedex,Attempted Delivery
+814,1454,2024-01-25,,fedex,Attempted Delivery
+815,269,2021-11-21,,usps,Attempted Delivery
+816,601,2023-09-18,,ups,Returned to Sender
+817,165,2022-10-10,,dhl,In Transit
+818,327,2020-06-14,2020-06-26,fedex,In Transit
+819,434,2023-01-31,,dhl,Returned to Sender
+820,773,2022-03-26,,dhl,Out for Delivery
+821,937,2022-09-01,,dhl,Out for Delivery
+822,920,2024-05-31,,ups,In Transit
+823,665,2021-02-01,,usps,In Transit
+824,187,2023-03-20,,dhl,In Transit
+825,926,2022-07-21,,usps,Delivered
+826,220,2021-05-12,,ups,Out for Delivery
+827,1234,2023-09-13,2023-10-12,fedex,In Transit
+828,214,2024-08-02,,dhl,Returned to Sender
+829,542,2020-08-27,,fedex,Returned to Sender
+830,894,2020-06-29,,fedex,Delivered
+831,166,2022-12-03,,usps,In Transit
+832,165,2023-02-20,,ups,Attempted Delivery
+833,251,2021-05-12,,usps,Delivered
+834,1003,2022-01-12,,fedex,Attempted Delivery
+835,135,2024-04-19,,ups,In Transit
+836,591,2022-01-28,,dhl,In Transit
+837,28,2023-07-27,,usps,Out for Delivery
+838,96,2020-09-30,,dhl,Delivered
+839,47,2024-09-18,,ups,Returned to Sender
+840,811,2023-09-27,,dhl,Out for Delivery
+841,429,2024-01-05,,bluedart,Attempted Delivery
+842,884,2021-06-16,,usps,Attempted Delivery
+843,1282,2021-12-30,,ups,Out for Delivery
+844,630,2022-02-09,2022-03-06,bluedart,Delivered
+845,1294,2022-12-03,,ups,Returned to Sender
+846,1067,2021-02-24,,usps,Delivered
+847,44,2022-10-12,,dhl,Returned to Sender
+848,702,2022-10-08,,ups,Attempted Delivery
+849,1463,2021-05-14,,bluedart,Returned to Sender
+850,1030,2023-04-20,,bluedart,Returned to Sender
+851,302,2022-10-03,,usps,Delivered
+852,1213,2021-09-19,2021-10-03,fedex,In Transit
+853,981,2024-02-02,,fedex,Returned to Sender
+854,119,2024-07-08,,fedex,Delivered
+855,1266,2022-03-12,,bluedart,Out for Delivery
+856,705,2023-05-28,,fedex,Out for Delivery
+857,678,2021-08-30,,dhl,Attempted Delivery
+858,163,2023-07-30,,bluedart,Delivered
+859,447,2021-11-10,,usps,In Transit
+860,104,2023-03-17,,fedex,In Transit
+861,576,2024-02-18,,dhl,In Transit
+862,1318,2022-05-07,,bluedart,Delivered
+863,574,2022-04-20,2022-05-20,usps,Returned to Sender
+864,1104,2023-12-30,,fedex,Out for Delivery
+865,94,2022-03-29,,bluedart,Out for Delivery
+866,561,2020-10-31,2020-11-10,ups,Out for Delivery
+867,172,2024-09-15,2024-10-01,fedex,Returned to Sender
+868,956,2024-05-30,,usps,Attempted Delivery
+869,386,2022-10-11,,fedex,Delivered
+870,97,2020-05-18,,fedex,In Transit
+871,1405,2021-07-05,,usps,Out for Delivery
+872,1193,2022-10-24,,dhl,Attempted Delivery
+873,492,2021-01-25,,ups,Attempted Delivery
+874,709,2021-06-21,,fedex,Delivered
+875,840,2022-01-19,,usps,In Transit
+876,18,2022-05-15,,dhl,Returned to Sender
+877,1344,2022-01-06,,usps,Returned to Sender
+878,121,2020-10-15,,bluedart,Returned to Sender
+879,972,2021-02-04,,usps,Out for Delivery
+880,323,2020-08-10,2020-08-24,usps,In Transit
+881,990,2020-05-30,,bluedart,Out for Delivery
+882,343,2022-12-30,,ups,Returned to Sender
+883,50,2022-11-28,,ups,Attempted Delivery
+884,1385,2020-07-31,,dhl,Out for Delivery
+885,1111,2020-03-14,,bluedart,Out for Delivery
+886,1266,2022-01-20,,ups,Out for Delivery
+887,659,2020-11-18,,dhl,Attempted Delivery
+888,32,2022-11-19,,dhl,Returned to Sender
+889,374,2023-11-03,,usps,Returned to Sender
+890,624,2022-08-15,,usps,Returned to Sender
+891,449,2022-08-06,,usps,Returned to Sender
+892,77,2022-03-04,,fedex,Delivered
+893,941,2023-04-05,,usps,Delivered
+894,319,2020-03-15,2020-04-01,usps,Delivered
+895,913,2023-05-05,,fedex,Out for Delivery
+896,233,2023-02-28,,bluedart,Returned to Sender
+897,1151,2020-03-22,,ups,Returned to Sender
+898,639,2022-08-26,,dhl,Out for Delivery
+899,1132,2020-09-29,2020-10-21,bluedart,Attempted Delivery
+900,561,2023-05-27,,usps,Returned to Sender
+901,244,2023-07-10,,ups,Out for Delivery
+902,875,2022-04-21,,usps,Out for Delivery
+903,836,2023-03-02,,dhl,Returned to Sender
+904,979,2020-07-05,2020-07-12,ups,Delivered
+905,48,2022-11-26,,usps,In Transit
+906,900,2023-06-25,,bluedart,In Transit
+907,1274,2023-09-29,,dhl,Out for Delivery
+908,983,2024-10-06,,fedex,Delivered
+909,700,2023-04-02,,usps,Delivered
+910,1000,2023-02-09,,usps,Attempted Delivery
+911,318,2024-02-25,,bluedart,In Transit
+912,742,2021-01-19,,fedex,Out for Delivery
+913,346,2024-03-19,,fedex,Returned to Sender
+914,827,2023-12-19,,dhl,Out for Delivery
+915,453,2021-12-22,,bluedart,Out for Delivery
+916,1323,2021-05-28,,dhl,Out for Delivery
+917,1306,2023-07-11,,fedex,In Transit
+918,623,2024-01-18,,usps,Returned to Sender
+919,955,2023-10-08,,bluedart,In Transit
+920,138,2024-03-09,,usps,Attempted Delivery
+921,1170,2022-10-01,,bluedart,Attempted Delivery
+922,757,2020-07-07,,fedex,Out for Delivery
+923,665,2022-11-14,,dhl,In Transit
+924,1451,2023-10-25,,usps,Delivered
+925,135,2020-01-29,,fedex,Returned to Sender
+926,601,2023-09-10,,fedex,In Transit
+927,742,2023-03-15,,dhl,In Transit
+928,814,2022-10-10,,ups,In Transit
+929,76,2024-03-27,,bluedart,Returned to Sender
+930,988,2021-11-01,2021-11-11,ups,Returned to Sender
+931,826,2022-11-22,,fedex,Attempted Delivery
+932,1262,2021-07-09,,fedex,Returned to Sender
+933,1004,2020-06-01,2020-06-08,fedex,Delivered
+934,1280,2022-09-13,,dhl,Returned to Sender
+935,92,2020-10-20,,dhl,In Transit
+936,450,2022-08-14,,ups,In Transit
+937,1271,2023-08-08,2023-08-23,dhl,Out for Delivery
+938,686,2023-02-07,,ups,In Transit
+939,309,2020-01-20,,usps,Attempted Delivery
+940,910,2022-05-20,2022-06-19,ups,Out for Delivery
+941,497,2024-07-11,2024-07-30,fedex,Out for Delivery
+942,145,2022-04-10,,bluedart,In Transit
+943,878,2021-05-16,2021-06-01,usps,Out for Delivery
+944,454,2023-04-23,,dhl,Delivered
+945,612,2022-02-27,,dhl,In Transit
+946,894,2023-05-08,,ups,Attempted Delivery
+947,767,2024-08-07,,ups,Returned to Sender
+948,551,2023-09-08,,bluedart,Attempted Delivery
+949,128,2023-02-04,,usps,In Transit
+950,412,2022-10-06,,bluedart,Attempted Delivery
+951,1313,2022-01-29,,ups,Attempted Delivery
+952,949,2020-08-10,,bluedart,Delivered
+953,1345,2022-03-03,,bluedart,Attempted Delivery
+954,1051,2021-07-06,,ups,Out for Delivery
+955,892,2021-06-26,,usps,Delivered
+956,359,2022-06-05,,bluedart,Delivered
+957,995,2024-09-19,2024-10-12,ups,Delivered
+958,1049,2020-07-28,,usps,Delivered
+959,171,2023-07-25,,dhl,Returned to Sender
+960,1252,2022-02-16,2022-03-17,usps,Out for Delivery
+961,1084,2023-08-02,,bluedart,Out for Delivery
+962,1258,2023-04-22,,ups,Returned to Sender
+963,480,2023-03-01,,bluedart,Attempted Delivery
+964,24,2023-02-06,,bluedart,Attempted Delivery
+965,1066,2022-01-24,,ups,Attempted Delivery
+966,237,2021-12-15,,bluedart,Attempted Delivery
+967,709,2022-11-08,2022-11-28,bluedart,In Transit
+968,887,2022-11-08,,fedex,Attempted Delivery
+969,1014,2020-10-29,,fedex,In Transit
+970,1478,2020-05-28,,bluedart,In Transit
+971,905,2020-06-04,,usps,Returned to Sender
+972,343,2022-08-22,,fedex,Delivered
+973,460,2023-08-14,2023-08-26,ups,In Transit
+974,1186,2024-06-23,,bluedart,Attempted Delivery
+975,1311,2022-12-04,2022-12-30,usps,Attempted Delivery
+976,941,2021-03-28,2021-04-25,fedex,Attempted Delivery
+977,71,2020-11-22,2020-12-02,fedex,Out for Delivery
+978,405,2021-09-01,,fedex,In Transit
+979,996,2022-04-04,,fedex,Out for Delivery
+980,1015,2023-05-05,,bluedart,In Transit
+981,252,2021-06-04,2021-06-20,usps,Delivered
+982,1313,2020-01-14,,dhl,Returned to Sender
+983,619,2021-11-04,,dhl,Delivered
+984,1276,2023-12-19,,usps,Out for Delivery
+985,841,2023-01-08,,ups,Out for Delivery
+986,1500,2023-05-04,,bluedart,Returned to Sender
+987,8,2021-11-17,2021-12-15,dhl,Delivered
+988,377,2022-06-10,2022-07-04,usps,Attempted Delivery
+989,941,2022-08-22,,bluedart,Returned to Sender
+990,579,2022-01-15,,ups,Out for Delivery
+991,1477,2024-01-03,,bluedart,Out for Delivery
+992,324,2022-08-23,2022-09-21,dhl,Out for Delivery
+993,1217,2022-10-07,,fedex,Returned to Sender
+994,412,2022-01-15,,bluedart,Out for Delivery
+995,594,2024-06-26,,usps,Attempted Delivery
+996,294,2023-05-25,,ups,Out for Delivery
+997,1097,2022-06-06,,bluedart,In Transit
+998,797,2021-05-04,,ups,In Transit
+999,938,2022-11-04,,ups,Out for Delivery
+1000,570,2020-05-07,,usps,Attempted Delivery
+1001,1115,2021-01-04,,usps,Returned to Sender
+1002,850,2020-06-24,,fedex,Delivered
+1003,1194,2024-07-25,,bluedart,Delivered
+1004,1020,2021-09-30,,usps,Returned to Sender
+1005,44,2021-05-22,,usps,Returned to Sender
+1006,851,2022-07-20,,usps,Attempted Delivery
+1007,697,2021-03-01,,fedex,Returned to Sender
+1008,911,2021-09-30,2021-10-22,usps,Returned to Sender
+1009,1483,2021-11-29,2021-12-15,usps,Attempted Delivery
+1010,1082,2020-03-28,2020-04-22,bluedart,Attempted Delivery
+1011,119,2020-09-05,,fedex,Out for Delivery
+1012,1044,2022-10-26,,usps,In Transit
+1013,396,2023-06-10,,bluedart,Delivered
+1014,1296,2023-12-17,,bluedart,Out for Delivery
+1015,1267,2023-03-17,,usps,In Transit
+1016,933,2023-01-08,,usps,Returned to Sender
+1017,936,2023-04-07,,usps,In Transit
+1018,30,2022-04-14,,fedex,Attempted Delivery
+1019,389,2020-08-08,,ups,Returned to Sender
+1020,1022,2024-10-10,,usps,Out for Delivery
+1021,7,2021-11-14,,usps,Attempted Delivery
+1022,137,2020-02-24,,fedex,In Transit
+1023,883,2024-11-07,,fedex,Delivered
+1024,832,2023-10-21,,fedex,Attempted Delivery
+1025,1181,2020-02-09,2020-03-06,bluedart,Attempted Delivery
+1026,233,2021-03-12,,bluedart,Delivered
+1027,648,2022-02-26,,fedex,Returned to Sender
+1028,1327,2022-01-12,,bluedart,Out for Delivery
+1029,456,2022-09-23,,ups,Returned to Sender
+1030,566,2020-11-27,,bluedart,Out for Delivery
+1031,923,2023-07-10,,fedex,Attempted Delivery
+1032,1087,2020-01-04,,fedex,Returned to Sender
+1033,232,2023-06-12,,bluedart,In Transit
+1034,1057,2023-01-29,,dhl,Returned to Sender
+1035,300,2020-10-27,,dhl,Out for Delivery
+1036,1249,2020-11-22,,ups,Out for Delivery
+1037,595,2020-09-26,,dhl,Out for Delivery
+1038,491,2024-09-23,,bluedart,In Transit
+1039,1073,2021-11-21,,usps,Attempted Delivery
+1040,100,2024-08-31,,bluedart,Delivered
+1041,179,2022-04-27,2022-05-17,usps,Delivered
+1042,191,2024-10-18,,bluedart,Returned to Sender
+1043,670,2023-07-28,2023-08-19,ups,Returned to Sender
+1044,234,2024-02-15,,dhl,In Transit
+1045,238,2024-10-09,,fedex,Delivered
+1046,817,2022-06-10,,fedex,Out for Delivery
+1047,1281,2023-04-29,,bluedart,Attempted Delivery
+1048,218,2023-11-02,,dhl,In Transit
+1049,1373,2020-11-04,,dhl,Attempted Delivery
+1050,1295,2021-07-02,,fedex,Attempted Delivery
+1051,542,2022-11-30,,dhl,Attempted Delivery
+1052,1147,2024-10-29,,dhl,Delivered
+1053,1053,2022-07-28,,dhl,Attempted Delivery
+1054,6,2022-07-15,,dhl,Out for Delivery
+1055,1187,2022-05-13,,dhl,In Transit
+1056,900,2024-09-27,,ups,Returned to Sender
+1057,1468,2022-02-02,,fedex,Attempted Delivery
+1058,215,2022-02-26,,ups,Returned to Sender
+1059,796,2020-02-28,,usps,Out for Delivery
+1060,1498,2022-04-07,,ups,Returned to Sender
+1061,687,2020-09-28,,fedex,Attempted Delivery
+1062,99,2020-07-25,2020-08-03,bluedart,Delivered
+1063,933,2023-11-02,,ups,In Transit
+1064,134,2020-09-02,,dhl,In Transit
+1065,715,2022-05-02,,dhl,In Transit
+1066,553,2020-05-07,2020-05-23,dhl,Out for Delivery
+1067,741,2020-03-18,,dhl,In Transit
+1068,588,2024-03-10,2024-03-26,bluedart,Attempted Delivery
+1069,824,2022-03-24,,ups,In Transit
+1070,422,2022-03-11,,fedex,Attempted Delivery
+1071,1485,2021-06-16,,bluedart,Delivered
+1072,520,2022-01-30,,ups,Attempted Delivery
+1073,238,2021-04-27,,dhl,Delivered
+1074,6,2020-04-23,,fedex,Attempted Delivery
+1075,169,2023-09-24,,ups,Returned to Sender
+1076,404,2020-07-24,,dhl,In Transit
+1077,1108,2020-11-04,,fedex,Returned to Sender
+1078,1499,2024-03-02,,fedex,Delivered
+1079,867,2020-04-28,,dhl,Out for Delivery
+1080,1229,2020-07-25,,usps,Returned to Sender
+1081,439,2020-05-09,,dhl,In Transit
+1082,1450,2024-02-23,,ups,Out for Delivery
+1083,186,2021-10-25,,fedex,Returned to Sender
+1084,1077,2021-01-19,,usps,Attempted Delivery
+1085,307,2020-12-19,,dhl,Delivered
+1086,986,2020-03-02,,fedex,Returned to Sender
+1087,908,2021-06-07,,fedex,Attempted Delivery
+1088,103,2024-01-01,,ups,In Transit
+1089,330,2021-08-05,,usps,Delivered
+1090,1343,2021-09-27,,usps,Delivered
+1091,951,2020-03-07,,dhl,In Transit
+1092,351,2023-11-23,,ups,Returned to Sender
+1093,912,2021-10-05,2021-10-29,bluedart,Out for Delivery
+1094,738,2024-05-16,,bluedart,Out for Delivery
+1095,1243,2022-03-26,,fedex,Delivered
+1096,476,2024-03-27,2024-04-12,ups,Returned to Sender
+1097,1009,2024-03-11,,ups,In Transit
+1098,34,2022-01-14,,fedex,Returned to Sender
+1099,269,2021-03-21,,bluedart,Delivered
+1100,18,2024-09-21,2024-10-07,usps,In Transit
+1101,694,2021-04-19,,ups,Returned to Sender
+1102,1471,2021-04-23,,dhl,Returned to Sender
+1103,769,2022-01-31,,fedex,In Transit
+1104,939,2022-06-21,,usps,Delivered
+1105,1456,2020-01-11,,bluedart,Out for Delivery
+1106,261,2023-07-12,,bluedart,Out for Delivery
+1107,1259,2022-05-14,,usps,In Transit
+1108,874,2021-10-07,2021-11-04,ups,Attempted Delivery
+1109,1350,2021-06-07,,fedex,Out for Delivery
+1110,10,2020-02-17,,dhl,In Transit
+1111,1093,2023-11-02,,ups,In Transit
+1112,706,2022-03-26,,bluedart,Attempted Delivery
+1113,378,2020-06-09,,usps,Returned to Sender
+1114,1400,2020-12-07,2021-01-02,bluedart,Attempted Delivery
+1115,1075,2023-11-25,,usps,Delivered
+1116,603,2023-02-02,,bluedart,Delivered
+1117,346,2023-12-31,2024-01-17,ups,In Transit
+1118,1462,2022-05-01,,bluedart,Returned to Sender
+1119,803,2020-09-23,,bluedart,In Transit
+1120,1132,2021-03-29,,fedex,Attempted Delivery
+1121,942,2024-11-04,,dhl,In Transit
+1122,887,2020-02-06,,fedex,Delivered
+1123,418,2021-03-11,,bluedart,Out for Delivery
+1124,1221,2024-07-26,,ups,Out for Delivery
+1125,1223,2020-10-23,,fedex,Attempted Delivery
+1126,829,2020-10-09,,fedex,Attempted Delivery
+1127,256,2021-09-03,,usps,Out for Delivery
+1128,1112,2021-10-25,,dhl,Out for Delivery
+1129,1220,2022-02-05,,fedex,Attempted Delivery
+1130,1200,2022-07-25,2022-08-22,dhl,Returned to Sender
+1131,397,2023-01-22,,bluedart,In Transit
+1132,746,2020-04-05,,ups,Returned to Sender
+1133,583,2023-05-14,,bluedart,Attempted Delivery
+1134,1189,2024-06-09,,ups,In Transit
+1135,500,2020-02-03,,usps,Attempted Delivery
+1136,1215,2022-01-18,2022-02-12,ups,Delivered
+1137,272,2020-10-29,,fedex,Out for Delivery
+1138,730,2020-08-06,,usps,In Transit
+1139,393,2020-05-10,2020-05-27,ups,Out for Delivery
+1140,1478,2021-09-11,,ups,Attempted Delivery
+1141,551,2020-12-07,,fedex,Returned to Sender
+1142,1337,2020-02-23,2020-03-07,bluedart,In Transit
+1143,1304,2021-06-28,,fedex,Out for Delivery
+1144,1368,2023-10-24,,fedex,In Transit
+1145,1001,2020-09-12,2020-10-05,usps,Delivered
+1146,59,2024-05-18,,bluedart,Delivered
+1147,957,2020-02-29,,fedex,Delivered
+1148,708,2023-07-16,,usps,Returned to Sender
+1149,591,2024-11-21,,ups,Out for Delivery
+1150,1198,2022-12-07,,bluedart,In Transit
+1151,865,2023-05-01,,dhl,Returned to Sender
+1152,466,2021-04-21,,ups,In Transit
+1153,148,2020-10-31,,dhl,Delivered
+1154,125,2020-09-17,,bluedart,Delivered
+1155,353,2021-10-22,,ups,In Transit
+1156,18,2024-07-31,,usps,In Transit
+1157,1181,2022-08-30,,usps,Returned to Sender
+1158,1250,2022-01-01,,dhl,Delivered
+1159,399,2020-08-30,,ups,Returned to Sender
+1160,1107,2024-11-04,,fedex,In Transit
+1161,845,2023-12-02,,fedex,In Transit
+1162,1201,2023-03-03,,ups,Out for Delivery
+1163,157,2022-03-12,,usps,Attempted Delivery
+1164,1186,2023-11-08,,ups,Attempted Delivery
+1165,1273,2022-08-13,,fedex,Out for Delivery
+1166,702,2024-09-29,,fedex,Out for Delivery
+1167,1143,2021-04-12,,ups,In Transit
+1168,1493,2021-06-20,,bluedart,Delivered
+1169,939,2024-04-05,,usps,Attempted Delivery
+1170,1099,2022-03-21,,fedex,Returned to Sender
+1171,1254,2023-09-09,,usps,Out for Delivery
+1172,1415,2023-01-31,,usps,Attempted Delivery
+1173,608,2021-05-01,,bluedart,Returned to Sender
+1174,696,2024-03-24,,usps,Out for Delivery
+1175,886,2022-02-13,,usps,Delivered
+1176,668,2022-10-12,,ups,Out for Delivery
+1177,286,2021-04-21,,bluedart,In Transit
+1178,636,2020-10-08,,fedex,Delivered
+1179,264,2022-04-08,,ups,Out for Delivery
+1180,838,2022-03-06,,bluedart,In Transit
+1181,755,2020-03-21,,bluedart,Out for Delivery
+1182,118,2021-03-27,2021-04-10,fedex,Out for Delivery
+1183,762,2024-08-15,,dhl,Delivered
+1184,1315,2024-07-15,,dhl,Returned to Sender
+1185,417,2020-12-09,,usps,Out for Delivery
+1186,1090,2023-12-26,,bluedart,Returned to Sender
+1187,412,2022-11-23,,ups,Delivered
+1188,790,2022-05-12,,bluedart,Delivered
+1189,785,2021-02-08,,usps,Out for Delivery
+1190,637,2021-06-19,,bluedart,Out for Delivery
+1191,130,2022-05-18,,bluedart,Out for Delivery
+1192,970,2020-05-01,,ups,In Transit
+1193,1410,2022-02-04,2022-02-23,fedex,Out for Delivery
+1194,397,2021-02-03,,dhl,Out for Delivery
+1195,69,2022-04-05,,bluedart,Attempted Delivery
+1196,703,2021-04-03,,dhl,In Transit
+1197,771,2023-11-16,,bluedart,Out for Delivery
+1198,176,2021-09-30,,ups,Delivered
+1199,437,2022-01-30,2022-02-19,dhl,Out for Delivery
+1200,566,2020-12-06,,bluedart,Attempted Delivery
+1201,189,2020-11-12,,dhl,In Transit
+1202,790,2023-02-16,,usps,In Transit
+1203,265,2022-07-14,,usps,In Transit
+1204,1030,2022-03-25,,usps,Delivered
+1205,364,2024-09-16,,ups,Out for Delivery
+1206,898,2020-03-18,2020-04-01,bluedart,Delivered
+1207,1270,2023-05-23,,dhl,Delivered
+1208,1088,2020-08-30,,ups,In Transit
+1209,1191,2022-06-07,,usps,Attempted Delivery
+1210,1216,2022-03-08,,ups,Attempted Delivery
+1211,236,2022-02-28,,ups,Returned to Sender
+1212,1030,2020-05-26,,usps,Delivered
+1213,40,2022-08-08,2022-09-05,dhl,In Transit
+1214,92,2020-05-01,,usps,Delivered
+1215,109,2021-12-23,,bluedart,In Transit
+1216,539,2024-12-05,,bluedart,Attempted Delivery
+1217,368,2020-08-04,,usps,Returned to Sender
+1218,625,2021-07-16,2021-08-07,dhl,Attempted Delivery
+1219,214,2021-12-20,,fedex,Returned to Sender
+1220,99,2020-08-29,,bluedart,Attempted Delivery
+1221,1452,2020-12-11,,fedex,In Transit
+1222,755,2023-03-26,,ups,In Transit
+1223,30,2021-07-13,,dhl,In Transit
+1224,36,2021-07-08,,bluedart,Delivered
+1225,845,2020-04-21,,fedex,Attempted Delivery
+1226,163,2023-10-26,,dhl,In Transit
+1227,757,2022-03-20,,dhl,Attempted Delivery
+1228,1352,2024-01-07,,fedex,In Transit
+1229,533,2020-06-28,,ups,Delivered
+1230,1298,2022-06-05,,bluedart,Attempted Delivery
+1231,1321,2024-05-29,,usps,Returned to Sender
+1232,961,2021-04-21,,fedex,Out for Delivery
+1233,375,2020-11-27,,dhl,Out for Delivery
+1234,1235,2023-06-10,,dhl,Returned to Sender
+1235,559,2024-06-30,,bluedart,Attempted Delivery
+1236,487,2022-02-19,,dhl,In Transit
+1237,693,2020-12-20,,bluedart,In Transit
+1238,472,2022-01-11,,usps,In Transit
+1239,881,2021-05-28,,ups,In Transit
+1240,1397,2022-02-24,,bluedart,Delivered
+1241,1160,2021-09-24,,usps,Delivered
+1242,737,2021-09-11,,dhl,In Transit
+1243,286,2024-10-13,,ups,Out for Delivery
+1244,468,2021-12-15,,usps,Returned to Sender
+1245,755,2021-03-04,,dhl,Attempted Delivery
+1246,781,2023-08-31,,usps,Delivered
+1247,424,2023-06-21,,dhl,Out for Delivery
+1248,717,2020-01-10,2020-01-19,usps,Out for Delivery
+1249,779,2020-03-29,,usps,In Transit
+1250,327,2022-06-29,,ups,Delivered
+1251,281,2021-06-27,,usps,Attempted Delivery
+1252,1179,2021-07-16,,dhl,Delivered
+1253,423,2020-07-22,,bluedart,In Transit
+1254,384,2024-11-03,,fedex,In Transit
+1255,189,2023-01-07,,usps,Delivered
+1256,1235,2022-01-23,,dhl,Returned to Sender
+1257,1426,2022-08-10,,bluedart,Out for Delivery
+1258,92,2023-03-16,,dhl,Attempted Delivery
+1259,565,2023-04-16,,usps,Delivered
+1260,1299,2022-10-25,,bluedart,Out for Delivery
+1261,314,2024-05-21,,usps,Returned to Sender
+1262,1327,2022-02-23,,bluedart,Returned to Sender
+1263,1011,2020-08-17,,bluedart,Delivered
+1264,658,2023-04-10,,ups,Attempted Delivery
+1265,287,2021-05-18,,usps,Returned to Sender
+1266,371,2021-11-21,,usps,Out for Delivery
+1267,1344,2023-09-21,2023-09-30,dhl,Delivered
+1268,569,2024-07-23,,usps,Returned to Sender
+1269,87,2024-02-19,,fedex,Out for Delivery
+1270,98,2021-04-10,,fedex,In Transit
+1271,1444,2022-02-25,,usps,Returned to Sender
+1272,1387,2023-02-15,,bluedart,Returned to Sender
+1273,1010,2022-05-25,,bluedart,In Transit
+1274,358,2020-05-18,,fedex,Attempted Delivery
+1275,95,2023-10-20,,usps,Delivered
+1276,906,2020-01-03,2020-01-26,bluedart,Attempted Delivery
+1277,1333,2023-09-04,,fedex,In Transit
+1278,1326,2023-02-21,,dhl,Out for Delivery
+1279,843,2021-09-24,2021-10-09,dhl,Delivered
+1280,362,2023-03-22,,dhl,Attempted Delivery
+1281,1383,2024-05-09,,usps,In Transit
+1282,28,2021-03-27,,usps,In Transit
+1283,233,2021-09-25,,ups,Attempted Delivery
+1284,532,2024-04-21,2024-05-04,usps,Returned to Sender
+1285,448,2022-10-18,,fedex,In Transit
+1286,812,2022-12-15,,bluedart,In Transit
+1287,509,2022-10-28,2022-11-07,bluedart,Out for Delivery
+1288,614,2024-01-06,,bluedart,Returned to Sender
+1289,379,2024-02-10,2024-02-28,ups,In Transit
+1290,743,2024-11-30,,usps,Attempted Delivery
+1291,131,2022-01-01,,usps,Returned to Sender
+1292,981,2024-07-04,,dhl,Delivered
+1293,178,2024-11-23,2024-12-05,usps,Delivered
+1294,341,2022-08-03,,dhl,Attempted Delivery
+1295,1307,2020-06-06,2020-06-29,ups,Returned to Sender
+1296,515,2024-12-04,,usps,Out for Delivery
+1297,199,2023-07-15,,usps,In Transit
+1298,983,2021-03-16,,dhl,Out for Delivery
+1299,163,2020-12-08,,usps,Attempted Delivery
+1300,141,2022-04-04,,fedex,Delivered
+1301,855,2023-11-20,,dhl,In Transit
+1302,810,2022-03-10,,usps,Delivered
+1303,1040,2024-04-24,,dhl,In Transit
+1304,644,2021-11-03,,bluedart,Returned to Sender
+1305,576,2024-12-01,,usps,Out for Delivery
+1306,934,2021-06-05,,usps,Attempted Delivery
+1307,1076,2024-04-29,,ups,Out for Delivery
+1308,1361,2023-10-25,2023-11-08,usps,Out for Delivery
+1309,349,2022-03-19,,dhl,In Transit
+1310,836,2023-01-30,,bluedart,Returned to Sender
+1311,527,2021-03-19,,fedex,Delivered
+1312,1087,2024-07-22,,ups,Attempted Delivery
+1313,180,2020-05-30,,dhl,In Transit
+1314,673,2022-08-04,,dhl,Delivered
+1315,153,2024-07-07,,bluedart,Returned to Sender
+1316,1262,2023-12-02,2023-12-23,usps,Delivered
+1317,1194,2024-11-19,,bluedart,Returned to Sender
+1318,864,2020-09-16,,bluedart,Out for Delivery
+1319,1008,2022-01-07,,fedex,In Transit
+1320,697,2020-06-28,,dhl,Returned to Sender
+1321,963,2023-05-08,,fedex,Delivered
+1322,589,2022-02-01,,ups,Attempted Delivery
+1323,1350,2021-04-21,,ups,Returned to Sender
+1324,1347,2020-12-12,,usps,Attempted Delivery
+1325,1208,2020-07-13,,ups,Out for Delivery
+1326,596,2020-05-19,,usps,Delivered
+1327,99,2024-08-14,,ups,In Transit
+1328,217,2023-04-28,,usps,Delivered
+1329,962,2022-05-19,,bluedart,Attempted Delivery
+1330,384,2021-10-20,,ups,In Transit
+1331,637,2024-07-19,,fedex,Attempted Delivery
+1332,346,2024-07-31,,bluedart,Attempted Delivery
+1333,1075,2022-06-25,,usps,Returned to Sender
+1334,711,2023-01-02,,dhl,Delivered
+1335,394,2024-04-04,,fedex,Attempted Delivery
+1336,400,2021-02-07,,ups,In Transit
+1337,201,2022-07-04,,fedex,Returned to Sender
+1338,1161,2023-03-31,,bluedart,Out for Delivery
+1339,62,2020-02-27,,fedex,Out for Delivery
+1340,558,2022-01-05,,ups,Returned to Sender
+1341,1294,2020-06-15,,ups,Delivered
+1342,1250,2022-10-05,,dhl,Returned to Sender
+1343,167,2023-10-01,2023-10-18,fedex,Out for Delivery
+1344,1182,2020-05-13,,bluedart,Out for Delivery
+1345,562,2024-05-24,,usps,Returned to Sender
+1346,972,2020-02-27,,ups,Delivered
+1347,691,2021-08-17,,fedex,In Transit
+1348,535,2022-09-11,,usps,Out for Delivery
+1349,376,2020-11-03,,dhl,Returned to Sender
+1350,308,2020-01-22,,usps,Delivered
+1351,1434,2021-11-09,,bluedart,Attempted Delivery
+1352,1016,2023-01-11,,dhl,Returned to Sender
+1353,43,2020-02-14,,fedex,Attempted Delivery
+1354,1037,2020-05-27,,dhl,Out for Delivery
+1355,1107,2022-09-26,,fedex,Attempted Delivery
+1356,39,2020-12-31,,dhl,Returned to Sender
+1357,815,2021-06-17,,bluedart,Delivered
+1358,1078,2022-06-09,,bluedart,Delivered
+1359,1090,2020-10-27,,usps,Delivered
+1360,1207,2021-02-02,,ups,Returned to Sender
+1361,825,2022-04-26,,fedex,Out for Delivery
+1362,1240,2022-02-27,,dhl,Attempted Delivery
+1363,867,2022-12-02,2022-12-24,usps,Delivered
+1364,273,2020-03-20,,fedex,In Transit
+1365,283,2023-06-06,,bluedart,Attempted Delivery
+1366,996,2022-11-01,2022-11-13,ups,Delivered
+1367,855,2020-07-25,,usps,In Transit
+1368,232,2020-05-19,,usps,In Transit
+1369,363,2024-03-18,,ups,In Transit
+1370,1066,2020-04-20,,dhl,Returned to Sender
+1371,115,2020-11-18,,ups,Out for Delivery
+1372,795,2023-03-18,,fedex,Attempted Delivery
+1373,883,2024-05-10,,fedex,Returned to Sender
+1374,1468,2024-07-31,,usps,Out for Delivery
+1375,1022,2021-05-09,,usps,Returned to Sender
+1376,798,2022-04-02,,usps,Attempted Delivery
+1377,619,2021-08-16,,dhl,In Transit
+1378,1246,2024-08-06,,fedex,Out for Delivery
+1379,706,2022-09-25,,usps,Returned to Sender
+1380,557,2021-03-25,2021-04-02,dhl,Attempted Delivery
+1381,1358,2022-10-23,,dhl,In Transit
+1382,336,2022-11-14,2022-12-04,ups,Returned to Sender
+1383,1364,2021-01-29,,dhl,Out for Delivery
+1384,976,2020-07-13,2020-08-12,bluedart,Attempted Delivery
+1385,492,2024-05-21,,bluedart,In Transit
+1386,662,2022-09-14,,ups,Out for Delivery
+1387,43,2021-08-30,,fedex,In Transit
+1388,1426,2023-04-08,,ups,In Transit
+1389,891,2023-07-10,,fedex,Returned to Sender
+1390,411,2020-04-24,,fedex,In Transit
+1391,1299,2020-06-21,,fedex,Attempted Delivery
+1392,1063,2020-05-23,,bluedart,Returned to Sender
+1393,949,2022-09-18,,usps,Attempted Delivery
+1394,1439,2024-11-30,,usps,Returned to Sender
+1395,1385,2024-05-13,,usps,In Transit
+1396,778,2020-09-22,,dhl,Out for Delivery
+1397,1117,2024-05-03,,ups,Attempted Delivery
+1398,1279,2021-07-03,,dhl,Returned to Sender
+1399,528,2020-01-29,,dhl,Attempted Delivery
+1400,1142,2020-06-20,,usps,Delivered
+1401,169,2020-01-06,,usps,In Transit
+1402,1072,2022-09-10,2022-10-07,usps,Returned to Sender
+1403,1449,2020-05-11,,ups,In Transit
+1404,928,2022-04-18,,fedex,Attempted Delivery
+1405,1242,2023-12-27,,dhl,Delivered
+1406,1100,2022-12-14,,ups,Out for Delivery
+1407,474,2020-02-01,,fedex,Attempted Delivery
+1408,137,2021-07-31,,bluedart,Delivered
+1409,862,2020-05-16,,bluedart,Attempted Delivery
+1410,992,2023-02-19,2023-03-18,dhl,Attempted Delivery
+1411,256,2020-12-04,,usps,Delivered
+1412,1034,2022-11-17,,dhl,Delivered
+1413,134,2021-03-27,,usps,Attempted Delivery
+1414,315,2020-01-17,,ups,Attempted Delivery
+1415,1051,2023-02-20,,usps,Returned to Sender
+1416,1084,2023-01-27,,ups,Returned to Sender
+1417,660,2022-06-07,,ups,Out for Delivery
+1418,880,2024-07-30,,fedex,Attempted Delivery
+1419,737,2022-12-15,,usps,Delivered
+1420,44,2022-06-24,,usps,Attempted Delivery
+1421,18,2021-01-10,,usps,Out for Delivery
+1422,841,2022-06-13,,bluedart,Out for Delivery
+1423,460,2020-01-22,,bluedart,Delivered
+1424,717,2021-06-13,,dhl,Delivered
+1425,1478,2020-11-14,,fedex,In Transit
+1426,1034,2023-09-19,,bluedart,Attempted Delivery
+1427,498,2022-04-13,,fedex,Returned to Sender
+1428,337,2023-10-08,,dhl,Out for Delivery
+1429,285,2020-08-12,,ups,In Transit
+1430,1084,2020-10-03,,ups,Out for Delivery
+1431,621,2023-04-15,,dhl,Returned to Sender
+1432,1269,2022-11-17,,dhl,Attempted Delivery
+1433,372,2024-04-13,,dhl,In Transit
+1434,325,2021-01-21,,fedex,Returned to Sender
+1435,1332,2020-04-27,,bluedart,Attempted Delivery
+1436,79,2020-06-05,,dhl,In Transit
+1437,297,2022-07-01,,ups,Returned to Sender
+1438,1496,2022-03-12,,bluedart,In Transit
+1439,995,2024-06-12,,bluedart,In Transit
+1440,950,2023-09-16,,dhl,Delivered
+1441,172,2020-11-28,,bluedart,Out for Delivery
+1442,83,2021-01-02,,usps,Out for Delivery
+1443,1171,2023-01-12,,ups,Out for Delivery
+1444,391,2023-03-17,,dhl,Returned to Sender
+1445,948,2022-12-30,2023-01-14,fedex,Attempted Delivery
+1446,1063,2024-05-15,,ups,In Transit
+1447,109,2021-10-11,,fedex,In Transit
+1448,635,2023-05-27,,dhl,Returned to Sender
+1449,991,2024-06-11,,bluedart,In Transit
+1450,1471,2024-04-04,2024-04-24,fedex,In Transit
+1451,1485,2021-03-13,,fedex,Out for Delivery
+1452,331,2022-01-17,,fedex,Out for Delivery
+1453,109,2022-07-10,,fedex,Out for Delivery
+1454,1410,2024-12-01,2024-12-13,fedex,Returned to Sender
+1455,1139,2024-09-25,,ups,Out for Delivery
+1456,1259,2024-06-01,,ups,Attempted Delivery
+1457,816,2023-07-23,,usps,Returned to Sender
+1458,1500,2021-06-11,,usps,Returned to Sender
+1459,720,2024-08-14,,ups,Delivered
+1460,691,2023-09-07,,fedex,Attempted Delivery
+1461,915,2022-01-29,,ups,Out for Delivery
+1462,1197,2023-09-15,,dhl,Attempted Delivery
+1463,936,2024-05-28,,ups,Delivered
+1464,721,2024-05-07,2024-05-24,bluedart,In Transit
+1465,1187,2020-07-31,,dhl,Out for Delivery
+1466,252,2023-12-02,,ups,Returned to Sender
+1467,1436,2023-08-27,,fedex,Returned to Sender
+1468,278,2024-11-03,,bluedart,Attempted Delivery
+1469,1374,2022-09-01,,ups,Out for Delivery
+1470,362,2022-11-04,,usps,Attempted Delivery
+1471,763,2020-12-28,,dhl,In Transit
+1472,605,2022-01-26,,fedex,Out for Delivery
+1473,1308,2021-11-01,,bluedart,In Transit
+1474,790,2023-06-30,,bluedart,Out for Delivery
+1475,1452,2022-09-26,,dhl,Returned to Sender
+1476,1187,2021-11-27,,fedex,Out for Delivery
+1477,1232,2022-09-07,,bluedart,Delivered
+1478,545,2021-08-17,,fedex,Returned to Sender
+1479,834,2020-03-14,,dhl,In Transit
+1480,1271,2024-03-04,,usps,Attempted Delivery
+1481,1045,2021-04-15,,ups,Returned to Sender
+1482,1055,2024-11-04,,bluedart,Delivered
+1483,1357,2021-02-11,,ups,Out for Delivery
+1484,1181,2023-05-30,2023-06-29,fedex,In Transit
+1485,383,2023-07-12,,bluedart,Delivered
+1486,1134,2024-11-02,,usps,Returned to Sender
+1487,1003,2022-06-30,,dhl,Out for Delivery
+1488,152,2023-02-24,,usps,Out for Delivery
+1489,316,2022-08-07,,fedex,Attempted Delivery
+1490,1243,2022-10-21,,bluedart,Attempted Delivery
+1491,831,2021-07-09,,ups,In Transit
+1492,509,2023-10-28,,ups,Out for Delivery
+1493,648,2024-05-03,2024-05-29,bluedart,Returned to Sender
+1494,1178,2024-10-17,,usps,In Transit
+1495,918,2022-12-09,,bluedart,Attempted Delivery
+1496,552,2020-06-20,,dhl,Delivered
+1497,241,2024-04-23,,ups,Out for Delivery
+1498,331,2024-10-03,,bluedart,Out for Delivery
+1499,662,2022-11-12,,bluedart,Delivered
+1500,872,2024-08-20,,usps,In Transit

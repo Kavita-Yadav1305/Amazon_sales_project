@@ -1,0 +1,701 @@
+seller_id,seller_name,origin
+1,AmazonBasics,USA
+2,AnkerDirect,USA
+3,TechArmor,USA
+4,iSaddle,USA
+5,Alum,USA
+6,Etekcity,USA
+7,Ring,USA
+8,Logitech,USA
+9,TP-Link,USA
+10,BlinkHome,China
+11,WyzeLabs,China
+12,Echo,China
+13,Jabra,China
+14,RAVPower,China
+15,JBL,USA
+16,Seller16,China
+17,Seller17,USA
+18,Seller18,China
+19,Seller19,India
+20,Seller20,USA
+21,Seller21,South Korea
+22,Seller22,Germany
+23,Seller23,China
+24,Seller24,USA
+25,Seller25,Japan
+26,Seller26,South Korea
+27,Seller27,Germany
+28,Seller28,China
+29,Seller29,India
+30,Seller30,USA
+31,Seller31,Germany
+32,Seller32,Germany
+33,Seller33,South Korea
+34,Seller34,India
+35,Seller35,China
+36,Seller36,South Korea
+37,Seller37,China
+38,Seller38,Germany
+39,Seller39,Germany
+40,Seller40,South Korea
+41,Seller41,Germany
+42,Seller42,China
+43,Seller43,Japan
+44,Seller44,Japan
+45,Seller45,Germany
+46,Seller46,Japan
+47,Seller47,Japan
+48,Seller48,India
+49,Seller49,USA
+50,Seller50,USA
+51,Seller51,Germany
+52,Seller52,Germany
+53,Seller53,Japan
+54,Seller54,India
+55,Seller55,South Korea
+56,Seller56,Japan
+57,Seller57,USA
+58,Seller58,Germany
+59,Seller59,Japan
+60,Seller60,China
+61,Seller61,Germany
+62,Seller62,USA
+63,Seller63,Japan
+64,Seller64,India
+65,Seller65,South Korea
+66,Seller66,India
+67,Seller67,China
+68,Seller68,China
+69,Seller69,China
+70,Seller70,South Korea
+71,Seller71,Germany
+72,Seller72,USA
+73,Seller73,Japan
+74,Seller74,Japan
+75,Seller75,Japan
+76,Seller76,South Korea
+77,Seller77,Japan
+78,Seller78,Germany
+79,Seller79,Germany
+80,Seller80,Germany
+81,Seller81,China
+82,Seller82,China
+83,Seller83,Germany
+84,Seller84,India
+85,Seller85,South Korea
+86,Seller86,Germany
+87,Seller87,South Korea
+88,Seller88,South Korea
+89,Seller89,Japan
+90,Seller90,China
+91,Seller91,South Korea
+92,Seller92,USA
+93,Seller93,South Korea
+94,Seller94,China
+95,Seller95,China
+96,Seller96,Japan
+97,Seller97,Japan
+98,Seller98,South Korea
+99,Seller99,South Korea
+100,Seller100,China
+101,Seller101,South Korea
+102,Seller102,China
+103,Seller103,India
+104,Seller104,South Korea
+105,Seller105,USA
+106,Seller106,India
+107,Seller107,South Korea
+108,Seller108,Japan
+109,Seller109,India
+110,Seller110,China
+111,Seller111,Japan
+112,Seller112,USA
+113,Seller113,China
+114,Seller114,Japan
+115,Seller115,Germany
+116,Seller116,Germany
+117,Seller117,India
+118,Seller118,Germany
+119,Seller119,India
+120,Seller120,China
+121,Seller121,Germany
+122,Seller122,Japan
+123,Seller123,South Korea
+124,Seller124,USA
+125,Seller125,South Korea
+126,Seller126,South Korea
+127,Seller127,USA
+128,Seller128,Japan
+129,Seller129,Germany
+130,Seller130,India
+131,Seller131,India
+132,Seller132,Japan
+133,Seller133,Japan
+134,Seller134,India
+135,Seller135,South Korea
+136,Seller136,South Korea
+137,Seller137,USA
+138,Seller138,Germany
+139,Seller139,Japan
+140,Seller140,South Korea
+141,Seller141,Japan
+142,Seller142,South Korea
+143,Seller143,South Korea
+144,Seller144,India
+145,Seller145,USA
+146,Seller146,Japan
+147,Seller147,China
+148,Seller148,South Korea
+149,Seller149,South Korea
+150,Seller150,Germany
+151,Seller151,India
+152,Seller152,India
+153,Seller153,USA
+154,Seller154,China
+155,Seller155,India
+156,Seller156,Germany
+157,Seller157,South Korea
+158,Seller158,China
+159,Seller159,Germany
+160,Seller160,India
+161,Seller161,India
+162,Seller162,Japan
+163,Seller163,China
+164,Seller164,Germany
+165,Seller165,USA
+166,Seller166,Japan
+167,Seller167,India
+168,Seller168,Germany
+169,Seller169,India
+170,Seller170,USA
+171,Seller171,India
+172,Seller172,Japan
+173,Seller173,Japan
+174,Seller174,USA
+175,Seller175,Germany
+176,Seller176,China
+177,Seller177,South Korea
+178,Seller178,China
+179,Seller179,South Korea
+180,Seller180,India
+181,Seller181,China
+182,Seller182,India
+183,Seller183,China
+184,Seller184,USA
+185,Seller185,USA
+186,Seller186,China
+187,Seller187,India
+188,Seller188,Japan
+189,Seller189,China
+190,Seller190,Germany
+191,Seller191,USA
+192,Seller192,USA
+193,Seller193,USA
+194,Seller194,India
+195,Seller195,Japan
+196,Seller196,USA
+197,Seller197,India
+198,Seller198,USA
+199,Seller199,USA
+200,Seller200,China
+201,Seller201,Japan
+202,Seller202,Germany
+203,Seller203,India
+204,Seller204,India
+205,Seller205,China
+206,Seller206,Germany
+207,Seller207,USA
+208,Seller208,Japan
+209,Seller209,India
+210,Seller210,Japan
+211,Seller211,India
+212,Seller212,India
+213,Seller213,Germany
+214,Seller214,Japan
+215,Seller215,India
+216,Seller216,Japan
+217,Seller217,Germany
+218,Seller218,China
+219,Seller219,China
+220,Seller220,Japan
+221,Seller221,China
+222,Seller222,China
+223,Seller223,India
+224,Seller224,Germany
+225,Seller225,India
+226,Seller226,India
+227,Seller227,South Korea
+228,Seller228,India
+229,Seller229,Japan
+230,Seller230,Japan
+231,Seller231,USA
+232,Seller232,China
+233,Seller233,Japan
+234,Seller234,Japan
+235,Seller235,USA
+236,Seller236,Japan
+237,Seller237,USA
+238,Seller238,India
+239,Seller239,South Korea
+240,Seller240,USA
+241,Seller241,South Korea
+242,Seller242,India
+243,Seller243,South Korea
+244,Seller244,USA
+245,Seller245,China
+246,Seller246,USA
+247,Seller247,USA
+248,Seller248,USA
+249,Seller249,South Korea
+250,Seller250,USA
+251,Seller251,USA
+252,Seller252,USA
+253,Seller253,Germany
+254,Seller254,Japan
+255,Seller255,South Korea
+256,Seller256,India
+257,Seller257,South Korea
+258,Seller258,India
+259,Seller259,China
+260,Seller260,Germany
+261,Seller261,Germany
+262,Seller262,China
+263,Seller263,Germany
+264,Seller264,South Korea
+265,Seller265,South Korea
+266,Seller266,India
+267,Seller267,Japan
+268,Seller268,Japan
+269,Seller269,China
+270,Seller270,Japan
+271,Seller271,USA
+272,Seller272,Japan
+273,Seller273,India
+274,Seller274,South Korea
+275,Seller275,Japan
+276,Seller276,India
+277,Seller277,China
+278,Seller278,South Korea
+279,Seller279,Japan
+280,Seller280,USA
+281,Seller281,South Korea
+282,Seller282,India
+283,Seller283,USA
+284,Seller284,Germany
+285,Seller285,China
+286,Seller286,India
+287,Seller287,Japan
+288,Seller288,India
+289,Seller289,South Korea
+290,Seller290,China
+291,Seller291,Japan
+292,Seller292,Germany
+293,Seller293,USA
+294,Seller294,Japan
+295,Seller295,South Korea
+296,Seller296,South Korea
+297,Seller297,Germany
+298,Seller298,Japan
+299,Seller299,India
+300,Seller300,Japan
+301,Seller301,USA
+302,Seller302,India
+303,Seller303,China
+304,Seller304,China
+305,Seller305,China
+306,Seller306,Japan
+307,Seller307,China
+308,Seller308,China
+309,Seller309,USA
+310,Seller310,India
+311,Seller311,China
+312,Seller312,China
+313,Seller313,South Korea
+314,Seller314,Germany
+315,Seller315,South Korea
+316,Seller316,India
+317,Seller317,India
+318,Seller318,India
+319,Seller319,USA
+320,Seller320,USA
+321,Seller321,China
+322,Seller322,India
+323,Seller323,Germany
+324,Seller324,Germany
+325,Seller325,USA
+326,Seller326,India
+327,Seller327,China
+328,Seller328,India
+329,Seller329,India
+330,Seller330,Germany
+331,Seller331,South Korea
+332,Seller332,Japan
+333,Seller333,China
+334,Seller334,Germany
+335,Seller335,South Korea
+336,Seller336,China
+337,Seller337,South Korea
+338,Seller338,China
+339,Seller339,Japan
+340,Seller340,USA
+341,Seller341,USA
+342,Seller342,South Korea
+343,Seller343,Japan
+344,Seller344,Japan
+345,Seller345,South Korea
+346,Seller346,Germany
+347,Seller347,Japan
+348,Seller348,USA
+349,Seller349,China
+350,Seller350,India
+351,Seller351,Japan
+352,Seller352,South Korea
+353,Seller353,Japan
+354,Seller354,China
+355,Seller355,South Korea
+356,Seller356,China
+357,Seller357,Japan
+358,Seller358,India
+359,Seller359,China
+360,Seller360,India
+361,Seller361,Japan
+362,Seller362,China
+363,Seller363,USA
+364,Seller364,China
+365,Seller365,South Korea
+366,Seller366,Japan
+367,Seller367,Japan
+368,Seller368,Japan
+369,Seller369,USA
+370,Seller370,India
+371,Seller371,China
+372,Seller372,China
+373,Seller373,USA
+374,Seller374,China
+375,Seller375,Japan
+376,Seller376,Germany
+377,Seller377,Germany
+378,Seller378,Japan
+379,Seller379,China
+380,Seller380,Japan
+381,Seller381,China
+382,Seller382,USA
+383,Seller383,Japan
+384,Seller384,Germany
+385,Seller385,Japan
+386,Seller386,USA
+387,Seller387,USA
+388,Seller388,China
+389,Seller389,Germany
+390,Seller390,South Korea
+391,Seller391,South Korea
+392,Seller392,India
+393,Seller393,South Korea
+394,Seller394,Germany
+395,Seller395,China
+396,Seller396,India
+397,Seller397,China
+398,Seller398,USA
+399,Seller399,USA
+400,Seller400,USA
+401,Seller401,India
+402,Seller402,Germany
+403,Seller403,India
+404,Seller404,India
+405,Seller405,South Korea
+406,Seller406,South Korea
+407,Seller407,Japan
+408,Seller408,Germany
+409,Seller409,USA
+410,Seller410,India
+411,Seller411,Japan
+412,Seller412,Germany
+413,Seller413,Germany
+414,Seller414,USA
+415,Seller415,USA
+416,Seller416,Japan
+417,Seller417,South Korea
+418,Seller418,South Korea
+419,Seller419,Japan
+420,Seller420,South Korea
+421,Seller421,USA
+422,Seller422,Germany
+423,Seller423,China
+424,Seller424,USA
+425,Seller425,India
+426,Seller426,China
+427,Seller427,Japan
+428,Seller428,China
+429,Seller429,South Korea
+430,Seller430,China
+431,Seller431,China
+432,Seller432,South Korea
+433,Seller433,Japan
+434,Seller434,Germany
+435,Seller435,Germany
+436,Seller436,Japan
+437,Seller437,South Korea
+438,Seller438,USA
+439,Seller439,India
+440,Seller440,Japan
+441,Seller441,Japan
+442,Seller442,South Korea
+443,Seller443,Germany
+444,Seller444,South Korea
+445,Seller445,USA
+446,Seller446,Japan
+447,Seller447,Germany
+448,Seller448,Japan
+449,Seller449,USA
+450,Seller450,China
+451,Seller451,India
+452,Seller452,USA
+453,Seller453,USA
+454,Seller454,China
+455,Seller455,India
+456,Seller456,China
+457,Seller457,USA
+458,Seller458,Japan
+459,Seller459,South Korea
+460,Seller460,India
+461,Seller461,USA
+462,Seller462,South Korea
+463,Seller463,India
+464,Seller464,Japan
+465,Seller465,Japan
+466,Seller466,USA
+467,Seller467,South Korea
+468,Seller468,South Korea
+469,Seller469,South Korea
+470,Seller470,South Korea
+471,Seller471,China
+472,Seller472,China
+473,Seller473,India
+474,Seller474,Japan
+475,Seller475,USA
+476,Seller476,Germany
+477,Seller477,Germany
+478,Seller478,Germany
+479,Seller479,Germany
+480,Seller480,South Korea
+481,Seller481,Japan
+482,Seller482,Germany
+483,Seller483,Japan
+484,Seller484,India
+485,Seller485,USA
+486,Seller486,Germany
+487,Seller487,USA
+488,Seller488,Japan
+489,Seller489,South Korea
+490,Seller490,Germany
+491,Seller491,Japan
+492,Seller492,USA
+493,Seller493,Germany
+494,Seller494,South Korea
+495,Seller495,South Korea
+496,Seller496,South Korea
+497,Seller497,USA
+498,Seller498,India
+499,Seller499,India
+500,Seller500,India
+501,Seller501,India
+502,Seller502,South Korea
+503,Seller503,South Korea
+504,Seller504,India
+505,Seller505,China
+506,Seller506,India
+507,Seller507,South Korea
+508,Seller508,Germany
+509,Seller509,India
+510,Seller510,Germany
+511,Seller511,Germany
+512,Seller512,Germany
+513,Seller513,Germany
+514,Seller514,USA
+515,Seller515,China
+516,Seller516,China
+517,Seller517,China
+518,Seller518,Japan
+519,Seller519,Japan
+520,Seller520,Japan
+521,Seller521,South Korea
+522,Seller522,Japan
+523,Seller523,South Korea
+524,Seller524,India
+525,Seller525,India
+526,Seller526,South Korea
+527,Seller527,Germany
+528,Seller528,Germany
+529,Seller529,China
+530,Seller530,Japan
+531,Seller531,USA
+532,Seller532,China
+533,Seller533,India
+534,Seller534,India
+535,Seller535,South Korea
+536,Seller536,India
+537,Seller537,South Korea
+538,Seller538,China
+539,Seller539,South Korea
+540,Seller540,Germany
+541,Seller541,India
+542,Seller542,India
+543,Seller543,China
+544,Seller544,India
+545,Seller545,USA
+546,Seller546,India
+547,Seller547,Germany
+548,Seller548,USA
+549,Seller549,India
+550,Seller550,South Korea
+551,Seller551,USA
+552,Seller552,India
+553,Seller553,Germany
+554,Seller554,South Korea
+555,Seller555,USA
+556,Seller556,India
+557,Seller557,South Korea
+558,Seller558,South Korea
+559,Seller559,India
+560,Seller560,India
+561,Seller561,USA
+562,Seller562,China
+563,Seller563,South Korea
+564,Seller564,South Korea
+565,Seller565,India
+566,Seller566,Japan
+567,Seller567,China
+568,Seller568,USA
+569,Seller569,South Korea
+570,Seller570,Germany
+571,Seller571,Germany
+572,Seller572,Germany
+573,Seller573,China
+574,Seller574,India
+575,Seller575,South Korea
+576,Seller576,South Korea
+577,Seller577,South Korea
+578,Seller578,India
+579,Seller579,Japan
+580,Seller580,China
+581,Seller581,China
+582,Seller582,South Korea
+583,Seller583,Japan
+584,Seller584,China
+585,Seller585,India
+586,Seller586,USA
+587,Seller587,Germany
+588,Seller588,Germany
+589,Seller589,South Korea
+590,Seller590,Germany
+591,Seller591,China
+592,Seller592,Japan
+593,Seller593,Japan
+594,Seller594,USA
+595,Seller595,USA
+596,Seller596,Germany
+597,Seller597,Germany
+598,Seller598,China
+599,Seller599,South Korea
+600,Seller600,China
+601,Seller601,India
+602,Seller602,China
+603,Seller603,South Korea
+604,Seller604,USA
+605,Seller605,South Korea
+606,Seller606,South Korea
+607,Seller607,USA
+608,Seller608,USA
+609,Seller609,USA
+610,Seller610,Germany
+611,Seller611,China
+612,Seller612,USA
+613,Seller613,Germany
+614,Seller614,India
+615,Seller615,USA
+616,Seller616,Japan
+617,Seller617,South Korea
+618,Seller618,South Korea
+619,Seller619,USA
+620,Seller620,Japan
+621,Seller621,Japan
+622,Seller622,China
+623,Seller623,USA
+624,Seller624,Japan
+625,Seller625,Germany
+626,Seller626,Japan
+627,Seller627,South Korea
+628,Seller628,India
+629,Seller629,China
+630,Seller630,Germany
+631,Seller631,Germany
+632,Seller632,Germany
+633,Seller633,South Korea
+634,Seller634,South Korea
+635,Seller635,Japan
+636,Seller636,USA
+637,Seller637,Japan
+638,Seller638,India
+639,Seller639,Japan
+640,Seller640,USA
+641,Seller641,India
+642,Seller642,Germany
+643,Seller643,Japan
+644,Seller644,USA
+645,Seller645,USA
+646,Seller646,Germany
+647,Seller647,South Korea
+648,Seller648,China
+649,Seller649,Germany
+650,Seller650,Germany
+651,Seller651,Germany
+652,Seller652,China
+653,Seller653,China
+654,Seller654,USA
+655,Seller655,China
+656,Seller656,USA
+657,Seller657,South Korea
+658,Seller658,China
+659,Seller659,USA
+660,Seller660,Germany
+661,Seller661,USA
+662,Seller662,South Korea
+663,Seller663,South Korea
+664,Seller664,Japan
+665,Seller665,China
+666,Seller666,India
+667,Seller667,India
+668,Seller668,India
+669,Seller669,India
+670,Seller670,USA
+671,Seller671,Germany
+672,Seller672,Germany
+673,Seller673,China
+674,Seller674,South Korea
+675,Seller675,India
+676,Seller676,India
+677,Seller677,China
+678,Seller678,Germany
+679,Seller679,Germany
+680,Seller680,China
+681,Seller681,China
+682,Seller682,Germany
+683,Seller683,India
+684,Seller684,South Korea
+685,Seller685,Japan
+686,Seller686,South Korea
+687,Seller687,Japan
+688,Seller688,USA
+689,Seller689,Germany
+690,Seller690,South Korea
+691,Seller691,India
+692,Seller692,India
+693,Seller693,South Korea
+694,Seller694,South Korea
+695,Seller695,Japan
+696,Seller696,South Korea
+697,Seller697,South Korea
+698,Seller698,USA
+699,Seller699,Japan
+700,Seller700,India

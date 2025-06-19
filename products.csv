@@ -1,0 +1,101 @@
+product_id,product_name,price,cogs,category_id
+1,Basketball,2532.12,2018.3,3
+2,Makeup Kit,1390.64,875.97,5
+3,Science Book,2036.76,1598.55,2
+4,Backpack,3955.61,2060.09,5
+5,Jeans,4197.69,2966.52,8
+6,Sleeping Bag,846.42,445.75,9
+7,Science Book,4772.19,2530.4,6
+8,Thermometer,4641.13,3100.93,1
+9,Building Blocks,762.82,497.63,1
+10,Building Blocks,4904.51,3447.51,3
+11,Tennis Racket,4401.51,3193.97,4
+12,Perfume,4662.2,2382.22,2
+13,Camping Chair,2091.99,1330.89,3
+14,T-shirt,491.7,299.11,5
+15,Coffee Maker,3602.29,2368.98,2
+16,Smart TV,2954.21,2216.23,3
+17,Tire Pressure Gauge,2152.15,1191.13,10
+18,Hand Sanitizer,2379.15,1689.51,1
+19,Perfume,3191.99,1644.67,6
+20,Board Game,3912.81,3105.68,9
+21,Air Freshener,1292.04,988.57,5
+22,Smart TV,4668.71,3209.34,5
+23,Coffee Maker,3378.35,2331.13,8
+24,Water Bottle,2780.91,2154.56,8
+25,Makeup Kit,4072.73,2533.17,4
+26,Doll,2878.67,1993.47,5
+27,Sleeping Bag,3060.43,2221.8,1
+28,Vacuum Cleaner,978.13,592.85,7
+29,Jacket,3466.86,2425.27,6
+30,Car Charger,4144.02,2563.98,1
+31,Vacuum Cleaner,3008.1,2347.74,1
+32,Car Wax,2568.3,1641.15,3
+33,Football,2489.94,1465.89,1
+34,Headphones,2500.94,1284.82,2
+35,History Book,4071.19,2601.55,8
+36,Sneakers,1033.43,754.28,3
+37,Coffee Maker,1049.48,560.23,7
+38,Cookbook,4715.28,3227.72,6
+39,Running Shoes,2962.25,2033.08,3
+40,Microwave,3823.77,2858.09,10
+41,Tennis Racket,3481.1,2400.98,6
+42,Yoga Mat,4126.36,3014.47,4
+43,Water Bottle,765.51,533.9,7
+44,Tent,2069.42,1071.67,7
+45,Basketball,3603.97,2775.91,10
+46,Blender,1726.06,1165.13,9
+47,Tire Pressure Gauge,2265.94,1679.43,6
+48,Smartphone,4302.52,2783.29,9
+49,Art Book,4091.15,2247.46,9
+50,Dress,1450.52,823.95,4
+51,Tire Pressure Gauge,3294.79,2231.56,10
+52,Sleeping Bag,3568.88,2153.12,4
+53,Running Shoes,4420.59,2736.42,10
+54,Car Wax,925.02,664.3,7
+55,Tennis Racket,4473.24,2967.46,10
+56,Tent,1963.62,1111.18,4
+57,Camping Chair,1078.6,647.71,10
+58,Puzzle,3081.66,2140.52,6
+59,Water Bottle,1860.49,1344.21,1
+60,Science Book,3418.62,2255.77,9
+61,Shampoo,1878.94,1246.32,4
+62,Smartphone,4402.53,2680.49,2
+63,Vitamins,899.2,578.72,10
+64,Jeans,4002.72,2088.85,8
+65,First Aid Kit,2579.17,1428.41,10
+66,Camping Chair,4343.72,2367.64,7
+67,History Book,1635.31,1219.45,4
+68,E-reader,3185.91,2251.13,9
+69,Smart TV,4094.71,2538.19,3
+70,Camping Chair,4581.37,3399.94,10
+71,Coffee Maker,4861.16,2469.72,7
+72,Toaster,4684.83,2438.97,9
+73,Doll,246.6,196.12,5
+74,Tent,3604.34,2256.62,6
+75,Thermometer,460.33,360.14,4
+76,Jump Starter,777.7,514.84,3
+77,Water Bottle,91.03,62.67,5
+78,Jeans,422.32,248.99,2
+79,Yoga Mat,3910.98,2204.04,8
+80,Sleeping Bag,701.19,396.02,7
+81,Blender,3290.76,1918.52,6
+82,Backpack,2969.53,2108.66,6
+83,Microwave,1420.52,713.44,9
+84,Art Book,358.72,268.99,4
+85,Running Shoes,3060.12,2106.47,6
+86,Air Freshener,4086.5,2463.04,10
+87,Cookbook,3036.72,1648.58,3
+88,Action Figure,4841.95,3126.26,9
+89,Car Wax,4645.06,3368.05,7
+90,Science Book,3698.68,2773.42,4
+91,History Book,4671.7,2575.19,8
+92,Sunscreen,4468.05,2989.76,1
+93,Lotion,1012.26,752.17,8
+94,Headphones,4489.31,3577.68,3
+95,Basketball,3642.01,2757.95,8
+96,Hand Sanitizer,4746.93,2731.89,9
+97,Microwave,3610.83,2519.27,5
+98,First Aid Kit,4221.83,2970.35,5
+99,Building Blocks,3171.07,1660.13,1
+100,Microwave,2610.85,2035.87,2
