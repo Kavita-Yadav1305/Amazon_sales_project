@@ -5,7 +5,7 @@ The project also focuses on data cleaning, handling null values, and solving rea
 An ERD diagram is included to visually represent the database schema and relationships between tables.''
 ## DATABASE SETUP AND DESIGN
 ### Schema structure
-''' sql -- AMAZON PROJECT-ADVANCED SQL
+'''sql -- AMAZON PROJECT-ADVANCED SQL
 -- CATEGORY TABLE
 
 -- CATEGORY TABLE
