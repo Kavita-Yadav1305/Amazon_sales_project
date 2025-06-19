@@ -3,6 +3,13 @@
 I have worked on analyzing a dataset of over 1400 sales records from an Amazon-like e-commerce platform. This project involves extensive querying of customer behavior, product performance, and sales trends using PostgreSQL. Through this project, I have tackled various SQL problems, including revenue analysis, customer segmentation, and inventory management.
 The project also focuses on data cleaning, handling null values, and solving real-world business problems using structured queries.
 An ERD diagram is included to visually represent the database schema and relationships between tables.
+
+
+# ENTITY RELATIONSHIP DIAGRAM (ERD)
+![image](https://github.com/user-attachments/assets/4d4d3783-be6b-4098-a9dd-012d3e95b9b5)
+
+
+
 ## DATABASE SETUP AND DESIGN
 ### Schema structure
 ```sql -- AMAZON PROJECT-ADVANCED SQL
@@ -712,7 +719,4 @@ This project enabled me to:
 This advanced SQL project successfully demonstrates my ability to solve real-world e-commerce problems using structured queries. From improving customer retention to optimizing inventory and logistics, the project provides valuable insights into operational challenges and solutions.
 
 By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and drive business decision-making.
-![image](https://github.com/user-attachments/assets/ca5ab07e-2c3f-4b0c-983a-27329f9941d3)
-
-![image](https://github.com/user-attachments/assets/4d4d3783-be6b-4098-a9dd-012d3e95b9b5)
 
