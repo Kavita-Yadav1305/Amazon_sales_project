@@ -1,11 +1,11 @@
 # Amazon_sales_project
 ## PROJECT OVERVIEW
-''I have worked on analyzing a dataset of over 1400 sales records from an Amazon-like e-commerce platform. This project involves extensive querying of customer behavior, product performance, and sales trends using PostgreSQL. Through this project, I have tackled various SQL problems, including revenue analysis, customer segmentation, and inventory management.
+`I have worked on analyzing a dataset of over 1400 sales records from an Amazon-like e-commerce platform. This project involves extensive querying of customer behavior, product performance, and sales trends using PostgreSQL. Through this project, I have tackled various SQL problems, including revenue analysis, customer segmentation, and inventory management.
 The project also focuses on data cleaning, handling null values, and solving real-world business problems using structured queries.
-An ERD diagram is included to visually represent the database schema and relationships between tables.''
+An ERD diagram is included to visually represent the database schema and relationships between tables.`
 ## DATABASE SETUP AND DESIGN
 ### Schema structure
-'''sql -- AMAZON PROJECT-ADVANCED SQL
+```sql -- AMAZON PROJECT-ADVANCED SQL
 -- CATEGORY TABLE
 
 -- CATEGORY TABLE
@@ -102,7 +102,7 @@ warehouse_id INT,
 last_stock_date DATE,
 constraint inventory_fk_products foreign key(product_id) references products(product_id)
 );
-'''
+```
 
 ![image](https://github.com/user-attachments/assets/4d4d3783-be6b-4098-a9dd-012d3e95b9b5)
 
