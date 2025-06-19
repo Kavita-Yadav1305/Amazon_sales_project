@@ -482,7 +482,7 @@ ORDER BY
     last_sale_date;
 ```
 -- ----------------------------------------------------------------------------------
-### 15. IDENTITY customers into returning or new  
+### 15. Identify customers into returning or new  
 if the customer has done more than 2 returns categorize them as returning otherwise new  
 Challenge: List customers id, name, total orders, total returns  
 ```sql
